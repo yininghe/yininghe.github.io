@@ -38,10 +38,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "heyinin1@msu.edu"
+  facebook: He Yining
+  github: yininghe
+# twitter: daattali
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -65,14 +65,15 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
   facebook: true
-  linkedin: true
+  github: true
+# linkedin: true
+# twitter: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://yininghe.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -99,7 +100,7 @@ footer-link-col: "#404040"
 
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
-#page-img: "/assets/img/bgimage.png"
+page-img: "/assets/img/bgimage.png"
 
 # --- Web Statistics Section --- #
 

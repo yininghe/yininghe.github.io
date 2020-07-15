@@ -6,7 +6,6 @@ bigimg:
   - "/assets/img/index_img/Yosemite.png" : "Yosemite National Park by Yining He, June 2016"
 ---
 
-
 ## Hello world
 ddddd
 

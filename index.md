@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi, I'm Yining He
-cover-img:'/assets/img/bgimage.png': "Manhattan Beach by Yining He @LA, USA"
+cover-image:'/assets/img/bgimage.png': "Manhattan Beach by Yining He @LA, USA"
 subtitle: My interest: Materials Simulation/Soccer/Travel...
 ---
 

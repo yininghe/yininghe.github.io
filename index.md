@@ -3,7 +3,7 @@ layout: page
 title: Hi, I'm Yining He
 subtitle: My interest is Materials Simulation/Soccer/Travel...
 bigimg:
-  - "/img/big-imgs/Arizona_2017a.jpg" : "Arizona, 2017"
+  - "/assets/img/index_img/Yosemite.png" : "Yosemite National Park by Yining He, June 2016"
 ---
 
 ## hello, world

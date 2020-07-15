@@ -2,8 +2,7 @@
 layout: page
 title: Hi, I'm Yining He
 subtitle: My interest is Materials Simulation/Soccer/Travel...
-cover-img:
-  - "/assets/img/Yosemite.png" : "Yosemite, Aug 2016"
+cover-img: "/assets/img/Yosemite.png" : "Yosemite, Aug 2016"
 ---
 
 ## hello, world

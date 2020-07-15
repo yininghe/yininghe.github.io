@@ -39,10 +39,10 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "heyinin1@msu.edu"
-  facebook: He Yining
+  facebook: YiningPeterHe
   github: yininghe
 # twitter: daattali
-  rss: false
+#  rss: false
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname

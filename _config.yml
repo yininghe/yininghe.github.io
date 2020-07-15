@@ -13,19 +13,19 @@ author: Yining He
 
 navbar-links:
   About Me: "/pages/aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://yininghe.github.io/"
+  Perspective on Materials Simulation:
+    - A: "https://beautifuljekyll.com"
+    - B: "https://www.markdowntutorial.com/"
+  Download CV: "https://yininghe.github.io/"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+# round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter

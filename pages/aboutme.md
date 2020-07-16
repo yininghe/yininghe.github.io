@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: Know More About Me...
 cover-img: 
   - "./assets/img/about_img/soccer3.png" : "After a Soccer Game @USC, April 2017"
   - "./assets/img/about_img/LA_pingpong.png" : "After a Ping Pong Game @USC, May 2016"

@@ -13,7 +13,7 @@ author: Yining He
 
 navbar-links:
   About Me: "/pages/aboutme"
-  My Perspectives on Materials Simulation: "/pages/perspectives"
+  My Perspectives on Materials Simulation:
     - Preface: "https://beautifuljekyll.com"
     - Background Knowledge: "https://www.markdowntutorial.com/"
   Download CV: "https://yininghe.github.io/"

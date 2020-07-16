@@ -15,4 +15,10 @@ cover-img:
 
 <p style="text-align: justify"> I am now looking for research opportunities related to materials simulation and modeling, especially the field that studies the structure-property relationship of materials. I do not have a preference for the kind of materials to be studied. In general, I have interest in both inorganic materials (like crystals) and polymers. I am more interested in the microscale-level and mesoscale-level modeling/simulation, but if needed, I'd like to do the macroscale-level modeling/simulation work as well. </p>
 
-<p style="text-align: justify"> Ever since I left my previous research group in the November of 2019, I have been reflecting on myself and considering what I should do afterwards.  </p>
+### Why do I want to work on Materials Simulation/Modeling?
+<p style="text-align: justify"> Ever since I left my previous research group in the November of 2019, I have been reflecting on myself and thinking what I should do afterwards. After consideration and talking with some professors/senior students/friends, I think that Materials Simulation/Modeling is a very promising reseach field, and finally make up my mind to work on this area. In general, there are two important reasons, as for me: </p>
+  
+<p style="text-align: justify"> First, with the rapid development of the computing power, materials modeling/simulation has become more and more powerful as a tool to study materials' properties besides theory and experiments. </p>
+
+
+### What I have done so far for preparation?

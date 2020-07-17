@@ -25,6 +25,8 @@ cover-img:
 
 <p style="text-align: justify"> For the programming part, I have taken classes about Python and Java while at MSU and USC in order to learn these two languages systematically. I have also self-studied Matlab while at MSU and Fortran while at USC. If you would like to know more about what I have prepared for the programming part, please check <a href="pages/aboutme">ABOUT ME</a>. </p>
 
+<p style="text-align: justify"> In the first half year of 2020, I have been  </p>
+
 I think that I have the ability to work in this area
 
 #### Reference

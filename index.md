@@ -23,7 +23,7 @@ cover-img:
 ### Why I Think That I am Capable of Working on This Area & My Preparation
 <p style="text-align: justify"> As for myself, I am very interested in this field. I have taken classes regarding with materials simulation both here at MSU (MSE 991: Computational Materials Science) and at University of Southern Carlifornia (USC) (MASC 575: Basics of Atomistic Simulation of Materials). I am familiar with the concepts in the field of materials simulation, including Density Functional Theory (DFT), Molecular Dynamics (MD), and Monte Carlo Methods (MC)... </p>
 
-<p style="text-align: justify"> For the programming part, I have taken classes about Python and Java while at MSU and USC in order to learn these two languages systematically. I have also self-studied Matlab while at MSU and Fortran while at USC. If you would like to know more about what I have prepared for the programming part, please check <a href="/pages/aboutme.md">ABOUT ME</a>. </p>
+<p style="text-align: justify"> For the programming part, I have taken classes about Python and Java while at MSU and USC in order to learn these two languages systematically. I have also self-studied Matlab while at MSU and Fortran while at USC. If you would like to know more about what I have prepared for the programming part, please check <a href="pages/aboutme.md">ABOUT ME</a>. </p>
 
 I think that I have the ability to work in this area
 

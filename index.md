@@ -25,7 +25,7 @@ cover-img:
 
 <p style="text-align: justify"> For the programming part, I have taken classes about Python and Java while at MSU and USC in order to learn these two languages systematically. I have also self-studied Matlab while at MSU and Fortran while at USC. If you would like to know more about what I have prepared for the programming part, please check <a href="pages/aboutme">ABOUT ME</a>. </p>
 
-<p style="text-align: justify"> In the first half year of 2020, I have been  </p>
+<p style="text-align: justify"> Since the beginnining of year 2020, I have been self-studying the theories/methods/examples and reading articles in the field of materials modeling/theory. Here, I listed down what I have learned and my thought about materials simulation in the first half year of 2020. If you have interest, feel free to check <a href="pages/p_general">MY PERSPECTIVES ON MATERIALS SIMULATION</a>. </p>
 
 I think that I have the ability to work in this area
 

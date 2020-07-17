@@ -18,10 +18,9 @@ cover-img:
 ### Why do I want to work on Materials Simulation/Modeling?
 <p style="text-align: justify"> Ever since I left my previous research group in the November of 2019, I have been reflecting on myself and thinking what I should do afterwards. After consideration and talking with some professors/senior students/friends, I think that Materials Simulation/Modeling is a very promising reseach field, and finally make up my mind to work on this area. In general, there are two important reasons, as for me: </p>
   
-<p style="text-align: justify"> First, with the rapid development of the computing power, materials modeling/simulation has become more and more powerful as a tool to study materials' properties besides theory and experiments. Nowadays, it has been used to predict materials properties and provide us physical insight to some phenomena, for example, it could predict the properties of materials “<i>that have not (yet) been synthesized or are at atomistic scales that cannot be readily interrogated experimentally</i>”.[1] </p>
-  
-Although the idea of materials modeling/simulation has been proposed many years ago, I think that it is still in an early stage of development. 
+<p style="text-align: justify"> First, with the rapid development of the computing power, materials modeling/simulation has become more and more powerful as a tool to study materials' properties besides theory and experiments. Nowadays, it has been used to predict materials properties and provide us physical insight to some phenomena, for example, it could predict the properties of materials “<i>that have not (yet) been synthesized or are at atomistic scales that cannot be readily interrogated experimentally</i>”.[1] I believe this materials modeling/simulation field will develop very fast in the foreseeable future, along with the dramatic development of chip hardware/software/algotithms (i.e. the use of machine learning). </p>
 
+<p style="text-align: justify"> Secondly, I think that I have the ability to work in this area </p>
 
 ### What I have done so far for preparation?
 ddd

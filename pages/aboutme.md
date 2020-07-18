@@ -14,7 +14,11 @@ cover-img:
 ### 1. Programming Skills
 
 #### 1.1 Python 
-* <p style="text-align: justify"> This summer, I took a class of Python and learned the various data structure, including string, function, list, tuple, dictionary, set, class and so on. </p>
+* <p style="text-align: justify"> This summer, I took a class of Python and learned various data structures of Python, including string, function, list, tuple, dictionary, set, class and so on. </p>
+
+* <p style="text-align: justify"> Finished the readings of Chapters 1-9, 11-12 of the book <i> The Practice of Computing Using Python </i> .[1]</p>
+
+* <p style="text-align: justify"> Finished the class projects of </p>
 
 
 #### 1.2 GitHub
@@ -40,4 +44,7 @@ SEM, FT-IR, XRD, DSC, TGA, Germanx400
 
 #### 3.3 Soccer & Table Tennis
 
+
+### Reference
+[1] Punch, William F., and Richard Enbody. The practice of computing using python. Addison-Wesley Publishing Company, 2010.
 

@@ -13,10 +13,11 @@ cover-img:
 
 ### 1. Programming Skills
 
-#### 1.1 GitHub
-ddd
+#### 1.1 Python 
+* <p style="text-align: justify"> This summer, I took a class of Python and learned the various data structure, including string, function, list, tuple, dictionary, set, class and so on. </p>
 
-#### 1.2 Python
+
+#### 1.2 GitHub
 ddd
 
 #### 1.3 Matlab

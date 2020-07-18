@@ -13,7 +13,7 @@ cover-img:
 
 ### 1. Programming Skills
 
-##### 1.1 GitHub
+#### 1.1 GitHub
 ddd
 
 ##### 1.2 Python

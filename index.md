@@ -27,7 +27,9 @@ cover-img:
 
 <p style="text-align: justify"> Since the beginnining of year 2020, I have been self-studying the theories/methods/examples and reading articles in the field of materials modeling/theory. Here, I listed down what I have learned and my thought about materials simulation in the first half year of 2020. If you have interest, feel free to check <a href="pages/p_general">MY PERSPECTIVES ON MATERIALS SIMULATION</a>. </p>
 
-I think that I have the ability to work in this area
+<p style="text-align: justify"> I used to make notes while reading papers. Hence, here I uploaded a list of notes for papers/Youtube Explanation Videos I have read/watched so far reagarding with the materials simulation. If you have interest, please check <a href="pages/study_notes">STUDY NOTES ON MATERIALS SIMULATION</a>. </p>
+
+Thus, I am determined to devote myself to the field of materials simulation/modeling, and I believe that I have the capability to work on this field.
 
 #### Reference
 <p style="text-align: justify"> [1] H. Zuilhof, S. H. Yu, and D. S. Sholl, “Writing Theory and Modeling Papers for Langmuir: The Good, the Bad, and the Ugly,” Langmuir, vol. 34, no. 5. American Chemical Society, pp. 1817–1818, 06-Feb-2018. </p>

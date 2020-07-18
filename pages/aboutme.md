@@ -16,16 +16,16 @@ cover-img:
 #### 1.1 GitHub
 ddd
 
-##### 1.2 Python
+#### 1.2 Python
 ddd
 
-##### 1.3 Matlab
+#### 1.3 Matlab
 ddd
 
-##### 1.4 Java (Also C++)
+#### 1.4 Java (Also C++)
 eeeee
 
-##### 1.5 Fortran 
+#### 1.5 Fortran 
 dddd
 
 ### 2. Experimental Skills
@@ -33,10 +33,10 @@ SEM, FT-IR, XRD, DSC, TGA, Germanx400
 
 ### 3. Personal Life 
 
-##### 3.1 Networking (Sigma Phi Delta Fraternity)
+#### 3.1 Networking (Sigma Phi Delta Fraternity)
 
-##### 3.2 USC & Tibet --- Volunteer Teachers
+#### 3.2 USC & Tibet --- Volunteer Teachers
 
-##### 3.3 Soccer & Table Tennis
+#### 3.3 Soccer & Table Tennis
 
 

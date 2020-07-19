@@ -9,19 +9,17 @@ cover-img:
   - "./assets/img/about_img/tibet.png" : "As a Short-Term Volunteer Teacher @Tibet, Aug 2014"
 ---
 
-## Know More About me
+# Know More About me
 
-### 1. Programming Skills
+### 1. Programming
+<p style="text-align: justify"> </p>
 
 #### 1.1 Python 
-* <p style="text-align: justify"> This summer, I took a class of Python and learned various data structures of Python, including string, function, list, tuple, dictionary, set, class and so on. </p>
+* <p style="text-align: justify"> This summer, I took a class of Python (CSE231) and learned various data structures of Python, including string, function, list, tuple, dictionary, set, class and so on. Finished the readings of Chapters 1-9, 11-12 of the book <i> The Practice of Computing Using Python </i> .[1]</p>
 
-* <p style="text-align: justify"> Finished the readings of Chapters 1-9, 11-12 of the book <i> The Practice of Computing Using Python </i> .[1]</p>
+* <p style="text-align: justify"> Here I attached the list of the 6 class projects I have finished using Python. If you have interest, please check the <a href="https://drive.google.com/drive/folders/1Lp1VTEmsLFz93kLzTfxlGmvEO5mB_0y6?usp=sharing">link</a>. </p>
 
-* <p style="text-align: justify"> Finished the class projects of </p>
-
-
-#### 1.2 GitHub
+#### 1.2 GitHub  
 ddd
 
 #### 1.3 Matlab
@@ -33,10 +31,12 @@ eeeee
 #### 1.5 Fortran 
 dddd
 
-### 2. Experimental Skills
+### 2. Experimental
+<p style="text-align: justify"> </p>
 SEM, FT-IR, XRD, DSC, TGA, Germanx400
 
 ### 3. Personal Life 
+<p style="text-align: justify"> </p>
 
 #### 3.1 Networking (Sigma Phi Delta Fraternity)
 

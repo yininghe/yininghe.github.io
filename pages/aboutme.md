@@ -29,13 +29,23 @@ cover-img:
 
 * <p style="text-align: justify"> While taking the class MSE 991 (Computational Materials Science), I also got the chance to write several Molecular Dynamics (MD) programsin Matlab. Here are some of the <a href="https://drive.google.com/drive/folders/153voqd3fobC8xD0aex3zamI0bneFZyaA?usp=sharing"> examples</a>. </p>
 
-* <p style="text-align: justify"> So far, I have an experience of Matlab of around 3,000 lines.</p>
+* <p style="text-align: justify"> So far, I have an experience of Matlab of around 3,000 lines. </p>
 
-#### 1.4 Java (Also C++)
-eeeee
+#### 1.4 Java (Also C++ and the Terminal Environment)
+<p style="text-align: justify"> </p>
+
+###### Java:
+* <p style="text-align: justify"> While taking the class CSCI 455 (Introduction to Programming Systems Design) at USC, I learned various data structures of Java and finished the readings of Chapters 1-7, 9-14, 17 of the book <i> Big Java: Early Objects </i> .[1] Also a little bit algorithms </p>
+
+###### C++:
+<p style="text-align: justify"> </p>
+
+###### Terminal:
+<p style="text-align: justify"> </p>
 
 #### 1.5 Fortran 
 dddd
+MASC 575 Basics of Atomistic Simulation of Materials
 
 ### 2. Experimental
 <p style="text-align: justify"> </p>
@@ -52,5 +62,7 @@ SEM, FT-IR, XRD, DSC, TGA, Germanx400
 
 
 ### Reference
-[1] Punch, William F., and Richard Enbody. The practice of computing using python. Addison-Wesley Publishing Company, 2010.
+<p style="text-align: justify"> [1] Punch, William F., and Richard Enbody. The practice of computing using python. Addison-Wesley Publishing Company, 2010. </p>
+
+<p style="text-align: justify"> [2] Horstmann, Cay S. Big Java: early objects. John Wiley & Sons, 5th Edition. </p>
 

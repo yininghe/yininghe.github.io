@@ -10,6 +10,8 @@ cover-img:
 ---
 
 # Know More About me
+<p style="text-align: justify"> </p>
+<p style="text-align: justify"> </p>
 
 ### 1. Programming
 <p style="text-align: justify"> </p>

@@ -58,11 +58,16 @@ cover-img:
 <p style="text-align: justify"> </p>
 
 #### 3.1 Networking (Sigma Phi Delta Fraternity)
-
+* <p style="text-align: justify"> To broaden my horizons and improve my networking skills, I joined  </p>
 
 #### 3.2 USC & Tibet --- Volunteer Teachers
+* <p style="text-align: justify"> </p>
 
 #### 3.3 Soccer & Table Tennis
+* <p style="text-align: justify"> </p>
+
+### 4. Download My CV 
+* <p style="text-align: justify"> Click the link or scan the QR Code to download my CV!</p>
 
 
 ### Reference

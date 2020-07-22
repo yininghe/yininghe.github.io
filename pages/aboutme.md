@@ -39,19 +39,19 @@ cover-img:
 ###### Java:
 * <p style="text-align: justify"> While taking the class CSCI 455 (Introduction to Programming Systems Design) at USC, I learned various data structures of Java and finished the readings of Chapters 1-7, 9-14, 17 of the book <i> Big Java: Early Objects </i> .[1] Also learned some algorithms, like the sorting and searching algorithm. </p>
 
-<p style="text-align: justify"> Finished 4 class projects using Java. Here are two examples: (i) Writing a console-based program to simulate a trial of tossing 2 coins some number of times and display the results in bar graph. (ii) Applying recursive search algorithm to search for a path that connects any two random points in a 2D maze. So far, I have an experience of Java of around 3,000 lines. </p>
+* <p style="text-align: justify"> Finished 4 class projects using Java. Here are two examples: (i) Writing a console-based program to simulate a trial of tossing 2 coins some number of times and display the results in bar graph. (ii) Applying recursive search algorithm to search for a path that connects any two random points in a 2D maze. So far, I have an experience of Java of around 3,000 lines. </p>
 
 ###### C++:
-<p style="text-align: justify"> I also learned C++ in the class CSCI 455 and finished 2 class projects using C++. These 2 projects are: (i) writing a program to record and arrange students’ names and corresponding scores in various required order, by implementing a data structure: hash table, with the use of linked lists (ii) Writing a console-based program to input a list of numbers, sort the number list by applying insertion sort algorithm, and split the even numbers from the old numbers. So far, I have an experience of C++ of around 1,500 lines. </p>
+* <p style="text-align: justify"> I also learned C++ in the class CSCI 455 and finished 2 class projects using C++. These 2 projects are: (i) writing a program to record and arrange students’ names and corresponding scores in various required order, by implementing a data structure: hash table, with the use of linked lists (ii) Writing a console-based program to input a list of numbers, sort the number list by applying insertion sort algorithm, and split the even numbers from the old numbers. So far, I have an experience of C++ of around 1,500 lines. </p>
 
 ###### Terminal Commands:
-<p style="text-align: justify"> Got familiar with the Terminal environment and various command lines in the class CSCI 455. </p>
+* <p style="text-align: justify"> Got familiar with the Terminal environment and various command lines in the class CSCI 455. </p>
 
 #### 1.5 Fortran 
-<p style="text-align: justify"> While taking the class MASC 575 (Basics of Atomistic Simulation of Materials) at USC, I self-studied  the syntax of Fortran to prepare for the class projects. Here are 2 simple example programs I wrote in Fortran: (i) Writing Fortran codes to calculate the π value in 2 ways. (a) Circle/Square Area Ratio; (b) Mathematical Integral. (ii) Writing Fortran codes to calculate the expectation values of x, x^2 , x^3 , x^4 , where x is subjected to Boltzmann distribution function centered at x = 0.5 at 3 different temperatures. So far, I have an experience of Fortran of around 500 lines.</p> 
+* <p style="text-align: justify"> While taking the class MASC 575 (Basics of Atomistic Simulation of Materials) at USC, I self-studied  the syntax of Fortran to prepare for the class projects. Here are 2 simple example programs I wrote in Fortran: (i) Writing Fortran codes to calculate the π value in 2 ways. (a) Circle/Square Area Ratio; (b) Mathematical Integral. (ii) Writing Fortran codes to calculate the expectation values of x, x^2 , x^3 , x^4 , where x is subjected to Boltzmann distribution function centered at x = 0.5 at 3 different temperatures. So far, I have an experience of Fortran of around 500 lines.</p> 
 
-### 2. Experimental skills and Software
-<p style="text-align: justify"> DSC, TGA, FT-IR, SEM, TEM, XRD, German RepRap X400 (3D printer), operations of general wafer processing in cleanroom. </p>
+### 2. Experimental
+* <p style="text-align: justify"> DSC, TGA, FT-IR, SEM, TEM, XRD, German RepRap X400 (3D printer), operations of general wafer processing in cleanroom. </p>
 
 
 ### 3. Personal Life 

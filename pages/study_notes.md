@@ -9,4 +9,23 @@ cover-img:
   - "./assets/img/study_img/las_vegas.png" : "Las Vegas, April 2017"
 ---
 
-## Study Notes
+# Study Notes
+* <p style="text-align: justify"> Here I uploaded a list of my notes I have made so far while reading papers or watching Youtube Explanation Videos related to the field of materials simulation/modeling. I hope that these notes could be beneficial to those new starters (like myself) who want to do research on materials simulation/modeling. </p>
+
+* <p style="text-align: justify"> Disclaimer: These study notes are made ONLY for study purpose and should NOT be used for any publication purpose.</p>
+
+* <p style="text-align: justify"> Notes: Since these notes made only for self-study purpose in the beginning, thus, the contents inside the notes may NOT be organized and formatted formally. In addition, a small portion of the notes are in Chinese. Sorry for the inconvenience. </p>
+
+
+### Note List
+
+<p style="text-align: justify"> (1) </p>
+
+### Notes related to Background Knowledge
+
+### Notes Related to Microscale (Atomistic/Molecular) level simulation 
+
+### Notes Related to Atomistic level simulation 
+
+### Notes Related to Atomistic level simulation 
+

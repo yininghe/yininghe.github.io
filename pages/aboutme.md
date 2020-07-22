@@ -12,6 +12,7 @@ cover-img:
 # Know More About me
 <p style="text-align: justify"> </p>
 <p style="text-align: justify"> </p>
+<p style="text-align: justify"> Click the link or scan the QR Code to see my CV!</p>
 
 ### 1. Programming
 <p style="text-align: justify"> </p>
@@ -58,13 +59,16 @@ cover-img:
 <p style="text-align: justify"> </p>
 
 #### 3.1 Networking (Sigma Phi Delta Fraternity)
-* <p style="text-align: justify"> To broaden my horizons and improve my networking skills, I joined  </p>
+* <p style="text-align: justify"> To broaden my professional horizons and improve my networking skills, I joined Sigma Phi Delta while at USC, which is an international professional-social fraternity for engineers. I got to know many alumni there and learned a lot from their experience. </p>
 
 #### 3.2 USC & Tibet --- Volunteer Teachers
-* <p style="text-align: justify"> </p>
+* <p style="text-align: justify"> In the first year at USC, I participated in the Inner City Tutoring Program organized by the USC Caruso Catholic Center, and volunteered to be a Math tutor every Monday afternoon at the St. Columbkille School for almost 7 months. </p>
 
-#### 3.3 Soccer & Table Tennis
-* <p style="text-align: justify"> </p>
+* <p style="text-align: justify"> In the July of year 2013 and 2014, I volunteered to be a teacher for one month at Lhasa Caiquan Welfare Special School in Tibet for twice. </p>
+
+
+#### 3.3 Hobbies: Soccer & Table Tennis
+* <p style="text-align: justify"> I like to play soccer and table tennis during my spare time. I usually play right-back on the field and I am good at speed and short passing. </p>
 
 ### 4. Download My CV 
 * <p style="text-align: justify"> Click the link or scan the QR Code to download my CV!</p>

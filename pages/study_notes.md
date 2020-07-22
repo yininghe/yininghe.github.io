@@ -18,9 +18,9 @@ cover-img:
 
 ### Note List
 
-<p style="text-align: justify"> (1) <a href="https://drive.google.com/file/d/17VUj4x5F_xWbiXH6Oa8aY5jmYBa_DSl7/view?usp=sharing">Note 1</a>. This note covers the following content: </p>
+<p style="text-align: justify"> <b>(1)</b> <a href="https://drive.google.com/file/d/17VUj4x5F_xWbiXH6Oa8aY5jmYBa_DSl7/view?usp=sharing">Note 1</a>. This note covers the following content: </p>
 
-<p style="text-align: justify"> (i) </p>
+  * <p style="text-align: justify">  fff </p>
 
 <p style="text-align: justify"> (ii) </p>
 

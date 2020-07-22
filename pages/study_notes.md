@@ -14,18 +14,17 @@ cover-img:
 
 * <p style="text-align: justify"> Disclaimer: These study notes are made ONLY for study purpose and should NOT be used for any publication purpose.</p>
 
-* <p style="text-align: justify"> Notes: Since these notes made only for self-study purpose in the beginning, thus, the contents inside the notes may NOT be organized and formatted formally. In addition, a small portion of the notes are in Chinese. Sorry for the inconvenience. </p>
-
+* <p style="text-align: justify"> Note: Since these notes made only for self-study purpose in the beginning, thus, the contents inside the notes may NOT be organized and formatted formally. In addition, a small portion of the notes are written in Chinese. Sorry for the inconvenience. </p>
 
 ### Note List
 
-<p style="text-align: justify"> (1) </p>
+<p style="text-align: justify"> (1) <a href="https://drive.google.com/file/d/17VUj4x5F_xWbiXH6Oa8aY5jmYBa_DSl7/view?usp=sharing">Note 1</a>. This note covers the following content: </p>
 
-### Notes related to Background Knowledge
+<p style="text-align: justify"> (i) </p>
 
-### Notes Related to Microscale (Atomistic/Molecular) level simulation 
+<p style="text-align: justify"> (ii) </p>
 
-### Notes Related to Atomistic level simulation 
+<p style="text-align: justify"> (iii) </p>
 
-### Notes Related to Atomistic level simulation 
+
 

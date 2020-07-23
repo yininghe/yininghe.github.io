@@ -30,4 +30,4 @@ cover-img:
   
 - <p style="text-align: justify"> and so on... </p>
 
-<p style="text-align: justify"> <b>(2)</b> <a href="https://drive.google.com/file/d/17VUj4x5F_xWbiXH6Oa8aY5jmYBa_DSl7/view?usp=sharing">Note 1</a>. This note is related to the following aspects: </p>
+<p style="text-align: justify"> <b> (2) <a href="">Note 2</a> </b>. This note is related to the following aspects: </p>

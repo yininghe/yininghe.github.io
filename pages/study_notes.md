@@ -26,7 +26,7 @@ cover-img:
 
 - <p style="text-align: justify"> Some theories encountered that need to be understood in order to understand the corresponding simulation paper: i.e. Crystal Field Theory (CFT), Butler-Volmer Equation, contact mechanics theory, phase-field theory (Cahn-Hilliard & Allen-Cahn equations), fracture mechanics, Embedded Atom Method (EAM), etc. </p>
   
-- <p style="text-align: justify"> A refresh/review of the concepts of Monte Carlo methods, Molycular Dynamics, Density Functional Theory (DFT), partition function, various statistical ensembles that were learned before. </p>
+- <p style="text-align: justify"> A refresh/review of the concepts of Monte Carlo (MC) methods, Molycular Dynamics (MD), Density Functional Theory (DFT), partition function, various statistical ensembles that were learned before. </p>
   
 - <p style="text-align: justify"> and so on... </p>
 
@@ -36,7 +36,7 @@ cover-img:
 
 
 
-<p style="text-align: justify"> <b> (3) <a href="https://drive.google.com/drive/folders/1yjzFr1w7Tml5DMsqAJ6hP2c2s6N4aq0S?usp=sharing">Note 3 (a series of notes).</a> </b> This note is related to the following aspects: </p>
+<p style="text-align: justify"> <b> (3) <a href="https://drive.google.com/drive/folders/1yjzFr1w7Tml5DMsqAJ6hP2c2s6N4aq0S?usp=sharing">Note 3 (a series of notes).</a> </b> These notes are related to the following aspects: </p>
 
 - <p style="text-align: justify"> Measure theory, stochastic differential equation (SDE) and stochastic claculus. </p>
 
@@ -46,7 +46,14 @@ cover-img:
 
 
 
-<p style="text-align: justify"> <b> (4) <a href="g">Note 4 (a series of notes).</a> </b> This note is related to: </p>
+<p style="text-align: justify"> <b> (4) <a href="https://drive.google.com/drive/folders/198Q3xKglre_yNkWnau_A_4KK9t9ybcp0?usp=sharing">Note 4 (a series of notes).</a> </b> These notes are related to the following aspects: </p>
 
+- <p style="text-align: justify"> The Fluctuation-Dissipation Theorem, which is the basis of the Langevin dynamics. </p>
+
+- <p style="text-align: justify"> The Langevin eqaution and Langevin dynamics. </p>
+
+- <p style="text-align: justify"> Several terminologies and mathematical tools. </p>
+
+- <p style="text-align: justify"> Several explanation articles regarding with DFT and MC. </p>
 
 

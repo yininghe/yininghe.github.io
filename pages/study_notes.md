@@ -30,9 +30,13 @@ cover-img:
   
 - <p style="text-align: justify"> and so on... </p>
 
+- <p style="text-align: justify"> </p>
+
 
 
 <p style="text-align: justify"> <b> (2) <a href="https://drive.google.com/file/d/1W4BBIAQgd0X23NuhGTa0ZcQCDsOOuzkI/view?usp=sharing">Note 2.</a> </b> This note is related to polymer physics. </p>
+
+- <p style="text-align: justify"> </p>
 
 
 
@@ -43,6 +47,8 @@ cover-img:
 - <p style="text-align: justify"> Several terminologies that need to be understood in order to understand the corresponding paper. </p>
 
 - <p style="text-align: justify"> Notes that were directly made on papers while reading. </p>
+
+- <p style="text-align: justify"> </p>
 
 
 
@@ -55,5 +61,11 @@ cover-img:
 - <p style="text-align: justify"> Several terminologies and mathematical tools. </p>
 
 - <p style="text-align: justify"> Several explanation articles regarding with DFT and MC. </p>
+
+- <p style="text-align: justify"> </p>
+
+
+
+<p style="text-align: justify"> <b> (5) <a href="">Note 5.</a> </b> These notes : </p>
 
 

@@ -18,7 +18,7 @@ cover-img:
 
 ### Note List
 
-<p style="text-align: justify"> <b> (1) <a href="https://drive.google.com/file/d/17VUj4x5F_xWbiXH6Oa8aY5jmYBa_DSl7/view?usp=sharing">Note 1</a> </b>. This note is related to the following aspects: </p>
+<p style="text-align: justify"> <b> (1) <a href="https://drive.google.com/file/d/17VUj4x5F_xWbiXH6Oa8aY5jmYBa_DSl7/view?usp=sharing">Note 1.</a> </b> This note is related to the following aspects: </p>
 
 - <p style="text-align: justify">  Atomistic level simulation work related to lithium batery (i.e. the Solid Electrolyte Interphase (SEI), the stress/strain changes caused by structure changes during the charging/discharging process), 2D materials, etc. </p>
 
@@ -30,4 +30,4 @@ cover-img:
   
 - <p style="text-align: justify"> and so on... </p>
 
-<p style="text-align: justify"> <b> (2) <a href="https://drive.google.com/file/d/1W4BBIAQgd0X23NuhGTa0ZcQCDsOOuzkI/view?usp=sharing">Note 2</a> </b>. This note is related to polymer physics. </p>
+<p style="text-align: justify"> <b> (2) <a href="https://drive.google.com/file/d/1W4BBIAQgd0X23NuhGTa0ZcQCDsOOuzkI/view?usp=sharing">Note 2.</a> </b> This note is related to polymer physics. </p>

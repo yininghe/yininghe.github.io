@@ -66,6 +66,16 @@ cover-img:
 
 
 
-<p style="text-align: justify"> <b> (5) <a href="https://drive.google.com/file/d/1Fkz4bwapsaWZNMSFAKXwl7kZSydHpQv5/view?usp=sharing">Note 5.</a> </b> This note is about the understanding of MC and MD.  </p>
+<p style="text-align: justify"> <b> (5) <a href="https://drive.google.com/file/d/1Fkz4bwapsaWZNMSFAKXwl7kZSydHpQv5/view?usp=sharing">Note 5.</a> </b> This note is about the understanding of MC and MD. </p>
+
+<p style="text-align: justify"> </p>
+
+
+
+<p style="text-align: justify"> <b> (6) <a href="https://drive.google.com/file/d/1Fkz4bwapsaWZNMSFAKXwl7kZSydHpQv5/view?usp=sharing">Note 6.</a> </b> This note .  </p>
+
+dd
+
+<p style="text-align: justify"> </p>
 
 

@@ -72,9 +72,11 @@ cover-img:
 
 
 
-<p style="text-align: justify"> <b> (6) <a href="https://drive.google.com/file/d/1Fkz4bwapsaWZNMSFAKXwl7kZSydHpQv5/view?usp=sharing">Note 6.</a> </b> This note .  </p>
+<p style="text-align: justify"> <b> (6) <a href="https://drive.google.com/drive/folders/1STlXH31OVrcdqXXXhn1wQw4qt-aEBy0n?usp=sharing">Note 6.</a> </b> These notes are related to the following aspects: </p>
 
-dd
+- <p style="text-align: justify"> Non-equilibrium Thermodynamics (This is the theoretical basis for simulating phase changes caused by temperature (i.e. in polymer melts))</p>
+
+- <p style="text-align: justify"> Some theories/terminologies including: Onsager Kinetic Coefficients, Onsager–Machlup function, Onsager Reciprocal Relation, and so on... </p>
 
 <p style="text-align: justify"> </p>
 

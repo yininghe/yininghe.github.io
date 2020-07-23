@@ -36,9 +36,17 @@ cover-img:
 
 
 
-<p style="text-align: justify"> <b> (3) <a href="">Note 3 (a series of notes).</a> </b> This note is related to the following aspects: </p>
+<p style="text-align: justify"> <b> (3) <a href="https://drive.google.com/drive/folders/1yjzFr1w7Tml5DMsqAJ6hP2c2s6N4aq0S?usp=sharing">Note 3 (a series of notes).</a> </b> This note is related to the following aspects: </p>
 
-- <p style="text-align: justify"> Measure theory and the stochastic differential equation (SDE) </p>
+- <p style="text-align: justify"> Measure theory, stochastic differential equation (SDE) and stochastic claculus. </p>
+
+- <p style="text-align: justify"> Several terminologies that need to be understood in order to understand the corresponding paper. </p>
+
+- <p style="text-align: justify"> Notes that were directly made on papers while reading. </p>
+
+
+
+<p style="text-align: justify"> <b> (4) <a href="g">Note 4 (a series of notes).</a> </b> This note is related to: </p>
 
 
 

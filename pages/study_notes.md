@@ -20,14 +20,14 @@ cover-img:
 
 <p style="text-align: justify"> <b> (1) <a href="https://drive.google.com/file/d/17VUj4x5F_xWbiXH6Oa8aY5jmYBa_DSl7/view?usp=sharing">Note 1</a> </b>. This note is related to the following aspects: </p>
 
-- <p style="text-align: justify">  Atomistic level simulation work related to lithium batery (i.e. the Solid Electrolyte Interphase (SEI), the stress/strain changes caused by structure changes during the charging/discharging process), 2D materials, etc </p>
+- <p style="text-align: justify">  Atomistic level simulation work related to lithium batery (i.e. the Solid Electrolyte Interphase (SEI), the stress/strain changes caused by structure changes during the charging/discharging process), 2D materials, etc. </p>
 
-- <p style="text-align: justify"> Some background knowledge/terminologies that need to be understood in order to understand the corresponding simulation paper: the Li battery, solid oxide fuel cells (SOFCs), various types of magnetism, etc </p>
+- <p style="text-align: justify"> Some background knowledge/terminologies that need to be understood in order to understand the corresponding simulation paper: the Li battery, solid oxide fuel cells (SOFCs), various types of magnetism, etc. </p>
 
-- <p style="text-align: justify"> Some theories encountered that need to be understood in order to understand the corresponding simulation paper: i.e. Crystal Field Theory (CFT), Butler-Volmer Equation, contact mechanics theory, phase-field theory (Cahn-Hilliard & Allen-Cahn equations), fracture mechanics, Embedded Atom Method (EAM), etc </p>
+- <p style="text-align: justify"> Some theories encountered that need to be understood in order to understand the corresponding simulation paper: i.e. Crystal Field Theory (CFT), Butler-Volmer Equation, contact mechanics theory, phase-field theory (Cahn-Hilliard & Allen-Cahn equations), fracture mechanics, Embedded Atom Method (EAM), etc. </p>
   
 - <p style="text-align: justify"> A refresh/review of the concepts of Monte Carlo methods, Molycular Dynamics, Density Functional Theory (DFT), partition function, various statistical ensembles that were learned before. </p>
   
 - <p style="text-align: justify"> and so on... </p>
 
-<p style="text-align: justify"> <b> (2) <a href="">Note 2</a> </b>. This note is related to  </p>
+<p style="text-align: justify"> <b> (2) <a href="https://drive.google.com/file/d/1W4BBIAQgd0X23NuhGTa0ZcQCDsOOuzkI/view?usp=sharing">Note 2</a> </b>. This note is related to polymer physics. </p>

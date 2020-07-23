@@ -30,4 +30,12 @@ cover-img:
   
 - <p style="text-align: justify"> and so on... </p>
 
+
+
 <p style="text-align: justify"> <b> (2) <a href="https://drive.google.com/file/d/1W4BBIAQgd0X23NuhGTa0ZcQCDsOOuzkI/view?usp=sharing">Note 2.</a> </b> This note is related to polymer physics. </p>
+
+
+
+<p style="text-align: justify"> <b> (3) <a href="">Note 3.</a> </b> This note is related to . </p>
+
+

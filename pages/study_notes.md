@@ -18,13 +18,14 @@ cover-img:
 
 ### Note List
 
-<p style="text-align: justify"> <b>(1)</b> <a href="https://drive.google.com/file/d/17VUj4x5F_xWbiXH6Oa8aY5jmYBa_DSl7/view?usp=sharing">Note 1</a>. This note covers the following content: </p>
+<p style="text-align: justify"> <b>(1)</b> <a href="https://drive.google.com/file/d/17VUj4x5F_xWbiXH6Oa8aY5jmYBa_DSl7/view?usp=sharing">Note 1</a>. This note is related to the following aspects: </p>
 
-  - <p style="text-align: justify">  fff </p>
+  - <p style="text-align: justify">  Atomistic level simulation work related to lithium batery (i.e. the Solid Electrolyte Interphase (SEI), the stress/strain changes caused by structure changes during the charging/discharging process), 2D materials. </p>
 
-<p style="text-align: justify"> (ii) </p>
+  - <p style="text-align: justify"> Some background knowledge/terminologies that need to be understood in order to understand the corresponding simulation paper: the Li battery, solid oxide fuel cells (SOFCs), various types of magnetism, </p>
 
-<p style="text-align: justify"> (iii) </p>
-
-
-
+  - <p style="text-align: justify"> Some theories encountered that need to be understood in order to understand the corresponding simulation paper: i.e. Crystal Field Theory (CFT), Butler-Volmer Equation, contact mechanics theory, phase-field theory (Cahn-Hilliard & Allen-Cahn equations), fracture mechanics, Embedded Atom Method (EAM) </p>
+  
+  - <p style="text-align: justify"> A refresh/review of the concepts of Monte Carlo methods, Molycular Dynamics, Density Functional Theory (DFT), partition function, various statistical ensembles that were learned before. </p>
+  
+  - <p style="text-align: justify"> others </p>

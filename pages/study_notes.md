@@ -28,4 +28,4 @@ cover-img:
   
 - <p style="text-align: justify"> A refresh/review of the concepts of Monte Carlo methods, Molycular Dynamics, Density Functional Theory (DFT), partition function, various statistical ensembles that were learned before. </p>
   
-- <p style="text-align: justify"> others </p>
+- <p style="text-align: justify"> and so on... </p>

@@ -36,6 +36,9 @@ cover-img:
 
 
 
-<p style="text-align: justify"> <b> (3) <a href="">Note 3.</a> </b> This note is related to . </p>
+<p style="text-align: justify"> <b> (3) <a href="">Note 3 (a series of notes).</a> </b> This note is related to the following aspects: </p>
+
+- <p style="text-align: justify"> Measure theory and the stochastic differential equation (SDE) </p>
+
 
 

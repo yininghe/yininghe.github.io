@@ -113,3 +113,17 @@ cover-img:
 <p style="text-align: justify"> </p>
 
 
+
+<p style="text-align: justify"> <b> (11) <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11.</a> </b> This note is related to the following aspects: </p>
+
+- <p style="text-align: justify"> . </p>
+
+- <p style="text-align: justify"> . </p>
+
+- <p style="text-align: justify"> . </p>
+
+- <p style="text-align: justify"> . </p>
+
+<p style="text-align: justify"> </p>
+
+

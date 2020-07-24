@@ -102,7 +102,7 @@ cover-img:
 
 - <p style="text-align: justify"> Landau-Ginzburg theory of phase transitions. </p>
 
-- <p style="text-align: justify"> Trace operator and phase transition </p>
+- <p style="text-align: justify"> Trace operator and phase transition. </p>
 
 <p style="text-align: justify"> </p>
 

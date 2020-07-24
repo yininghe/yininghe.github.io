@@ -116,13 +116,17 @@ cover-img:
 
 <p style="text-align: justify"> <b> (11) <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11.</a> </b> This note is related to the following aspects: </p>
 
-- <p style="text-align: justify"> . </p>
+- <p style="text-align: justify"> Several concepts including: critical phenomena, critical exponents, phase transition, order parameters, etc </p>
 
-- <p style="text-align: justify"> . </p>
+- <p style="text-align: justify"> Navier-Stokes Equation. </p>
 
-- <p style="text-align: justify"> . </p>
+- <p style="text-align: justify"> Dissipative Particle Dynamics (DPD). </p>
 
-- <p style="text-align: justify"> . </p>
+- <p style="text-align: justify"> The Lattice Boltzmann Method (LBM) & The Lattice Gas Automaton method (LGA) --- Predecessor of the LBM. </p>
+
+- <p style="text-align: justify"> Boltzmann (transport) equation (BTE). </p>
+
+- <p style="text-align: justify"> and so on... </p>
 
 <p style="text-align: justify"> </p>
 

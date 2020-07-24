@@ -72,11 +72,43 @@ cover-img:
 
 
 
-<p style="text-align: justify"> <b> (6) <a href="https://drive.google.com/drive/folders/1STlXH31OVrcdqXXXhn1wQw4qt-aEBy0n?usp=sharing">Note 6.</a> </b> These notes are related to the following aspects: </p>
+<p style="text-align: justify"> <b> (6) <a href="https://drive.google.com/drive/folders/1STlXH31OVrcdqXXXhn1wQw4qt-aEBy0n?usp=sharing">Note 6 (a series of notes).</a> </b> These notes are related to the following aspects: </p>
 
 - <p style="text-align: justify"> Non-equilibrium Thermodynamics (This is the theoretical basis for simulating phase changes caused by temperature (i.e. in polymer melts))</p>
 
 - <p style="text-align: justify"> Some theories/terminologies including: Onsager Kinetic Coefficients, Onsager–Machlup function, Onsager Reciprocal Relation, and so on... </p>
+
+<p style="text-align: justify"> </p>
+
+
+
+<p style="text-align: justify"> <b> (7) <a href="https://drive.google.com/file/d/1zHPnoG_ifda7WFq5lECKJAb2ZBPtkNQO/view?usp=sharing">Note 7.</a> </b> This note is about an example of the Dissipative Particle Dynamics (DPD). </p>
+
+<p style="text-align: justify"> </p>
+
+
+
+<p style="text-align: justify"> <b> (8) <a href="https://drive.google.com/drive/folders/107L-JYqCPOddcQ3E0qHeuIz5OA7Ayb5L?usp=sharing">Note 8 (a series of notes).</a> </b> These notes are related to the Lattice Boltzmann Methods (LBM). </p>
+
+<p style="text-align: justify"> </p>
+
+
+
+<p style="text-align: justify"> <b> (9) <a href="https://drive.google.com/drive/folders/1xk27urM1dFVMYPSYagm1ps2MIpxQBQk5?usp=sharing">Note 9 (a series of notes).</a> </b> These notes are related to the Landau-Ginzburg theory in the following aspects: </p>
+
+- <p style="text-align: justify"> Phase space. </p>
+
+- <p style="text-align: justify"> Critical exponents. </p>
+
+- <p style="text-align: justify"> Landau-Ginzburg theory of phase transitions. </p>
+
+- <p style="text-align: justify"> Trace operator and phase transition </p>
+
+<p style="text-align: justify"> </p>
+
+
+
+<p style="text-align: justify"> <b> (10) <a href="https://drive.google.com/file/d/1gI_B-gzNL3P3xuXzXAO9uvvM9_g0sYMv/view?usp=sharing">Note 10.</a> </b> This note is related to the Reynolds number (Re) and the Naview-Stokes equations. </p>
 
 <p style="text-align: justify"> </p>
 

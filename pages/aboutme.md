@@ -52,7 +52,7 @@ cover-img:
 * <p style="text-align: justify"> While taking the class MASC 575 (Basics of Atomistic Simulation of Materials) at USC, I self-studied  the syntax of Fortran to prepare for the class projects. Here are 2 simple example programs I wrote in Fortran: (i) Writing Fortran codes to calculate the π value in 2 ways. (a) Circle/Square Area Ratio; (b) Mathematical Integral. (ii) Writing Fortran codes to calculate the expectation values of x, x^2 , x^3 , x^4 , where x is subjected to Boltzmann distribution function centered at x = 0.5 at 3 different temperatures. So far, I have an experience of Fortran of around 500 lines.</p> 
 
 ### 2. Experimental
-* <p style="text-align: justify"> DSC, TGA, FT-IR, SEM, TEM, XRD, German RepRap X400 (3D printer), operations of general wafer processing in cleanroom. </p>
+* <p style="text-align: justify"> DSC, TGA, FT-IR, SEM, XRD, German RepRap X400 (3D printer), operations of general wafer processing in cleanroom. </p>
 
 
 ### 3. Personal Life 

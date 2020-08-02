@@ -12,7 +12,7 @@ cover-img:
 # Know More About me
 <p style="text-align: justify"> </p>
 <p style="text-align: justify"> </p>
-<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1kup2rK-AbDI_OVYOgqJx4dpmkzV97PI9/view?usp=sharing">link</a> to see my CV.</p>
+<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1kup2rK-AbDI_OVYOgqJx4dpmkzV97PI9/view?usp=sharing">link</a> to download my CV.</p>
 
 ### 1. Programming
 <p style="text-align: justify"> </p>
@@ -71,7 +71,7 @@ cover-img:
 * <p style="text-align: justify"> I like to play soccer and table tennis during my spare time. I usually play right-back on the field and I am good at speed and short passing. </p>
 
 ### 4. Download My CV 
-<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1kup2rK-AbDI_OVYOgqJx4dpmkzV97PI9/view?usp=sharing">link</a> to see my CV.</p>
+<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1kup2rK-AbDI_OVYOgqJx4dpmkzV97PI9/view?usp=sharing">link</a> to download my CV.</p>
 
 
 ### Reference

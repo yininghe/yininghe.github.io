@@ -12,7 +12,9 @@ cover-img:
 # Know More About me
 <p style="text-align: justify"> </p>
 <p style="text-align: justify"> </p>
-<p style="text-align: justify"> Click the link or scan the QR Code to see my CV!</p>
+<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1kup2rK-AbDI_OVYOgqJx4dpmkzV97PI9/view?usp=sharing">link</a> or scan the QR Code to see my CV!</p>
+
+![CV CR Code]("./assets/QR_code/CV QR_1.png")
 
 ### 1. Programming
 <p style="text-align: justify"> </p>

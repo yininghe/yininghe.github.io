@@ -20,7 +20,7 @@ cover-img:
   
 <p style="text-align: justify"> With the rapid development of the computing power, materials modeling/simulation has become more and more powerful as a tool to study materials' properties besides theory and experiments. Nowadays, it has been used to predict materials properties and provide us physical insight to some phenomena, for example, it could predict the properties of materials “<i>that have not (yet) been synthesized or are at atomistic scales that cannot be readily interrogated experimentally</i>”.[1] I believe this materials modeling/simulation field will develop very fast in the foreseeable future, along with the dramatic development of chip hardware/software/algotithms (i.e. the use of machine learning). </p>
 
-### Why I Think That I am Capable of Working on This Area & My Preparation
+### What I have prepared:
 <p style="text-align: justify"> As for myself, I am very interested in this field. I have taken classes regarding with materials simulation both here at MSU (MSE 991: Computational Materials Science) and at University of Southern Carlifornia (USC) (MASC 575: Basics of Atomistic Simulation of Materials). I am familiar with the concepts in the field of materials simulation, including Density Functional Theory (DFT), Molecular Dynamics (MD), and Monte Carlo Methods (MC)... </p>
 
 <p style="text-align: justify"> For the programming part, I have taken classes about Python and Java while at MSU and USC in order to learn these two languages systematically. I have also self-studied Matlab while at MSU and Fortran while at USC. If you would like to know more about what I have prepared for the programming part, please check <a href="pages/aboutme">ABOUT ME</a>. </p>

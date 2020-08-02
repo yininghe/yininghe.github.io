@@ -44,6 +44,7 @@ cover-img:
 **4.3 Lattice Boltzmann Methods**
 
 **4.4 Ginzburg–Landau Theory**
+
 4.4.1 Bakcground knowledge
 * ff
 

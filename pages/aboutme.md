@@ -14,7 +14,7 @@ cover-img:
 <p style="text-align: justify"> </p>
 <p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1kup2rK-AbDI_OVYOgqJx4dpmkzV97PI9/view?usp=sharing">link</a> or scan the QR Code to see my CV!</p>
 
-![Scan for Yining's CV](./assets/QR_code/CV QR_1.png)
+![Scan for Yining's CV](./assets/img/about_img/tibet.png)
 
 ### 1. Programming
 <p style="text-align: justify"> </p>

@@ -3,7 +3,7 @@ layout: page
 title: Study Notes
 cover-img: 
   - "./assets/img/study_img/santa_monica2.png" : "Santa Monica @Los Angeles, Nov 2015"
-  - "./assets/img/study_img/las_vegas.png" : "Las Vegas, April 2017"
+  - "/assets/img/footballgame.png" : "Football game @Spartan Stadium, Aug 2019"
 ---
 
 # Study Notes

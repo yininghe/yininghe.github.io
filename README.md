@@ -5,6 +5,6 @@
 
 This website uses the *Beautiful Jekyll* website theme template. 
 
-**Beautiful Jekyll** *Copyright 2020 [Dean Attali](https://deanattali.com)*
-
 **Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [example website](https://deanattali.com) to see it in use, or see examples of websites other people created using this theme [below](#showcased-users-success-stories).
+
+**Beautiful Jekyll** *Copyright 2020 [Dean Attali](https://deanattali.com)*

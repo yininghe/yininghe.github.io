@@ -25,11 +25,9 @@ cover-img:
 
 <p style="text-align: justify"> For the programming part, I have taken classes about Python and Java while at MSU and USC in order to learn these two languages systematically. I have also self-studied Matlab while at MSU and Fortran while at USC. If you would like to know more about what I have prepared for the programming part, please check <a href="pages/aboutme">ABOUT ME</a>. </p>
 
-<p style="text-align: justify"> Since the beginnining of year 2020, I have been self-studying the theories/methods/examples and reading articles in the field of materials modeling/theory. Here, I listed down what I have learned and my thoughts about materials simulation so far. If you are interested, feel free to check <a href="pages/p_general">MY PERSPECTIVES ON MATERIALS SIMULATION</a>. </p>
+<p style="text-align: justify"> Since the beginnining of year 2020, I have been self-studying the theories/methods/examples and reading articles in the field of materials modeling/theory. Here, I uploaded a list of notes for papers/Youtube Explanation Videos I have read/watched so far reagarding with the materials simulation. If you have interest, please check <a href="pages/study_notes">STUDY NOTES ON MATERIALS SIMULATION</a>. In addition, I am planning to summarize what I have learned so far, as systematically as possible. I believe that a good test of whether I fully understand a concept or not is whether I could summarize the concept in my own words using words as simple as possible. Here I uploaded some of my <a href="">SUMMARY ARTICLES</a> based on my reading so far. However, this part takes me much more time than I expected and I am still working on the writing part. </p>
 
-<p style="text-align: justify"> I used to make notes while reading papers. Hence, here I uploaded a list of notes for papers/Youtube Explanation Videos I have read/watched so far reagarding with the materials simulation. If you have interest, please check <a href="pages/study_notes">STUDY NOTES ON MATERIALS SIMULATION</a>. </p>
-
-I am determined to devote myself to the field of materials simulation/modeling, and I believe that I have the capability to work on this field.
+<p style="text-align: justify"> I am determined to devote myself to the field of materials simulation/modeling, and I believe that I have the capability to work on this field and succeed. </p>
 
 #### Reference
 <p style="text-align: justify"> [1] H. Zuilhof, S. H. Yu, and D. S. Sholl, “Writing Theory and Modeling Papers for Langmuir: The Good, the Bad, and the Ugly,” Langmuir, vol. 34, no. 5. American Chemical Society, pp. 1817–1818, 06-Feb-2018. </p>

@@ -61,19 +61,19 @@ cover-img:
 <p style="text-align: justify"> </p>
 
 **4.2 Dissipative Particle Dynamics (DPD)**
-<p style="text-align: justify"> This part will be summarized based on <a href="https://drive.google.com/file/d/1zHPnoG_ifda7WFq5lECKJAb2ZBPtkNQO/view?usp=sharing">Note 7</a> and several review papers. </p>
+<p style="text-align: justify"> This part will be summarized based on <a href="https://drive.google.com/file/d/1zHPnoG_ifda7WFq5lECKJAb2ZBPtkNQO/view?usp=sharing">Note 7</a>, <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11</a>, and several review papers. </p>
 
 <p style="text-align: justify"> </p>
 
 **4.3 Lattice Boltzmann Methods**
-<p style="text-align: justify"> This part will be summarized based on <a href="https://drive.google.com/drive/folders/107L-JYqCPOddcQ3E0qHeuIz5OA7Ayb5L?usp=sharing">Note 8 (a series of notes)</a>. </p>
+<p style="text-align: justify"> This part will be summarized based on <a href="https://drive.google.com/drive/folders/107L-JYqCPOddcQ3E0qHeuIz5OA7Ayb5L?usp=sharing">Note 8 (a series of notes)</a> and <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11</a>. </p>
 
 <p style="text-align: justify"> </p>
 
 **4.4 Ginzburg–Landau Theory**
 
 4.4.1 Bakcground knowledge
-<p style="text-align: justify"> The concepts of <b>(i) Phase space, (ii) Trace operator and phase transition, and (iii) Critical exponents</b> will be summarized based on <a href="https://drive.google.com/drive/folders/1xk27urM1dFVMYPSYagm1ps2MIpxQBQk5?usp=sharing">Note 9 (a series of notes)</a>. </p>
+<p style="text-align: justify"> The concepts of <b>(i) Phase space, (ii) Trace operator and phase transition, and (iii) Critical exponents</b> will be summarized based on <a href="https://drive.google.com/drive/folders/1xk27urM1dFVMYPSYagm1ps2MIpxQBQk5?usp=sharing">Note 9 (a series of notes)</a> and <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11</a>. </p>
 
 4.4.2 Ginzburg–Landau Theory
 <p style="text-align: justify"> The Ginzburg–Landau Theory will be summarized based on <a href="https://drive.google.com/drive/folders/1xk27urM1dFVMYPSYagm1ps2MIpxQBQk5?usp=sharing">Note 9 (a series of notes)</a>. </p>

@@ -70,7 +70,7 @@ cover-img:
 <p style="text-align: justify"> </p>
 
 ### 5. Very Brief Introduction to Mesoscale/Macroscale Level Simulation Methods
-**5.1 **
+**5.1**
 
 <p style="text-align: justify"> </p>
 

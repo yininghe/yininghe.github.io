@@ -22,12 +22,12 @@ cover-img:
 
 ##### Table of Contents
 
-<p style="text-align: justify"> 1. General Perspectives on Materials Simulation </p>
-<p style="text-align: justify"> 2. Polymer Physics </p>
-<p style="text-align: justify"> 3. Summary of the Molecular (or Atomistic) Scale Level Simulation Methods </p>
-<p style="text-align: justify"> 4. Summary of the Microscale (Coarse-Grained Model) Level Simulation Methods </p>
-<p style="text-align: justify"> 5. Very Brief Introduction to Mesoscale/Macroscale Level Simulation Methods </p>
-<p style="text-align: justify"> 6. Some simulation examples </p>
+<p style="text-align: justify"> 1. General Perspectives on Materials Simulation 
+2. Polymer Physics 
+3. Summary of the Molecular (or Atomistic) Scale Level Simulation Methods 
+4. Summary of the Microscale (Coarse-Grained Model) Level Simulation Methods 
+5. Very Brief Introduction to Mesoscale/Macroscale Level Simulation Methods
+6. Some simulation examples </p>
 
 <p style="text-align: justify"> </p>
 

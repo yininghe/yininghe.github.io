@@ -53,13 +53,13 @@ cover-img:
 
 <p style="text-align: justify"> <b><i> 4.1 Brownian Dynamics (BD) </i></b> </p>
 
-<p style="text-align: justify"> 4.1.1 Background Knowledge </p>
+<p style="text-align: justify"> <u>4.1.1 Background Knowledge</u> </p>
 
 <p style="text-align: justify"> The Fluctuation-Dissipation Theorem is the basis of the Langevin dynamics. This part will be summarized based on <a href="https://drive.google.com/drive/folders/198Q3xKglre_yNkWnau_A_4KK9t9ybcp0?usp=sharing">Note 4 (a series of notes)</a>. </p>
 
 <p style="text-align: justify"> </p>
 
-<p style="text-align: justify"> 4.1.2 Brownian Dynamics (BD) </p>
+<p style="text-align: justify"> <u>4.1.2 Brownian Dynamics (BD)</u> </p>
 <p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1ohz_ZVlydgGSDZZF2zYL934YFq2ttYSt/view?usp=sharing">link</a> to see the finished PDF file. </p>
 
 <p style="text-align: justify"> </p>
@@ -76,10 +76,10 @@ cover-img:
 
 <p style="text-align: justify"> <b><i> 4.4 Ginzburg–Landau Theory </i></b> </p>
 
-<p style="text-align: justify"> 4.4.1 Bakcground knowledge </p>
+<p style="text-align: justify"> <u>4.4.1 Bakcground knowledge</u> </p>
 <p style="text-align: justify"> The concepts of <b>(i) Phase space, (ii) Trace operator and phase transition, and (iii) Critical exponents</b> will be summarized based on <a href="https://drive.google.com/drive/folders/1xk27urM1dFVMYPSYagm1ps2MIpxQBQk5?usp=sharing">Note 9 (a series of notes)</a> and <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11</a>. </p>
 
-<p style="text-align: justify"> 4.4.2 Ginzburg–Landau Theory </p>
+<p style="text-align: justify"> <u>4.4.2 Ginzburg–Landau Theory</u> </p>
 <p style="text-align: justify"> The Ginzburg–Landau Theory will be summarized based on <a href="https://drive.google.com/drive/folders/1xk27urM1dFVMYPSYagm1ps2MIpxQBQk5?usp=sharing">Note 9 (a series of notes)</a>. </p>
 <p style="text-align: justify"> </p>
 

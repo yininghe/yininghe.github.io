@@ -12,13 +12,13 @@ cover-img:
 
 <b> Purpose of these summary articles: a roadmap for beginners </b>
 
-<p style="text-align: justify"> Strictly speaking, these articles are not review articles. Instead, I wrote this them to record what I have learned about the materials simulation during the first half year of 2020, with all the references cited standardly.
+<p style="text-align: justify"> Strictly speaking, these articles are not review articles. Instead, I wrote them in my own words to record what I have learned about the materials simulation during the first half year of 2020, with all the references cited standardly. (However, the writing part takes me much more time than I expected and I am still working on it. Some of the summary articles have been finished, while some not).
 
 <p style="text-align: justify"> I hope that these articles could serve as a roadmap for beginner (like myself) to get on the track of doing research on materials simulation. </p>
 
 <p style="text-align: justify"> There are many research fields in terms of materials simulation. Thus, I want to start with the field of polymer nanocomposites as a cut-in point. Polymer nanocomposites could change and enhance the properties of the pure polymer materials, i.e., ceramic nanoparticles could increase the strength and modulus of pure polymer materials. However, it should be noted that such enhancement depends heavily on the nanoparticles-polymer matrix compatibility. Thus, it requires a better understanding of the structure-property relationship for polymer nanocomposites. And simulation could be a great tool to probe this structure-property relationship. </p>
 
-<p style="text-align: justify"> I am still working on writing these summary articles and they are organized generally in the following way: </p>
+<p style="text-align: justify"> These summary articles (PDF files) are organized generally in the following way: </p>
 
 <p style="text-align: justify"> <b> Table of Contents </b> </p>
 

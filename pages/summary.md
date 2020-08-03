@@ -23,10 +23,15 @@ cover-img:
 <b> Table of Contents </b>
 
 1. General Perspectives on Materials Simulation 
+
 2. Polymer Physics 
+
 3. Summary of the Molecular (or Atomistic) Scale Level Simulation Methods 
+
 4. Summary of the Microscale (Coarse-Grained Model) Level Simulation Methods 
+
 5. Very Brief Introduction to Mesoscale/Macroscale Level Simulation Methods
+
 6. Some simulation examples
 
 <p style="text-align: justify"> </p>
@@ -51,10 +56,10 @@ cover-img:
 <b> 4. Summary of the Microscale (Coarse-Grained Model) Level Simulation Methods </b>
 <p style="text-align: justify"> </p>       
 
-<i> 4.1 Brownian Dynamics (BD) </i>
-<p style="text-align: justify"> </p>
+<b><i> 4.1 Brownian Dynamics (BD) </i></b>
 
 4.1.1 Background Knowledge
+
 * <p style="text-align: justify"> The Fluctuation-Dissipation Theorem </p>
 <p style="text-align: justify"> The Fluctuation-Dissipation Theorem is the basis of the Langevin dynamics. This part will be summarized based on <a href="https://drive.google.com/drive/folders/198Q3xKglre_yNkWnau_A_4KK9t9ybcp0?usp=sharing">Note 4 (a series of notes)</a>. </p>
 
@@ -65,17 +70,17 @@ cover-img:
 
 <p style="text-align: justify"> </p>
 
-<i> 4.2 Dissipative Particle Dynamics (DPD) </i>
+<b><i> 4.2 Dissipative Particle Dynamics (DPD) </i></b>
 <p style="text-align: justify"> This part will be summarized based on <a href="https://drive.google.com/file/d/1zHPnoG_ifda7WFq5lECKJAb2ZBPtkNQO/view?usp=sharing">Note 7</a>, <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11</a>, and several review papers. </p>
 
 <p style="text-align: justify"> </p>
 
-<i> 4.3 Lattice Boltzmann Methods </i>
+<b><i> 4.3 Lattice Boltzmann Methods </i></b>
 <p style="text-align: justify"> This part will be summarized based on <a href="https://drive.google.com/drive/folders/107L-JYqCPOddcQ3E0qHeuIz5OA7Ayb5L?usp=sharing">Note 8 (a series of notes)</a> and <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11</a>. </p>
 
 <p style="text-align: justify"> </p>
 
-<i> 4.4 Ginzburg–Landau Theory </i>
+<b><i> 4.4 Ginzburg–Landau Theory </i></b>
 
 4.4.1 Bakcground knowledge
 <p style="text-align: justify"> The concepts of <b>(i) Phase space, (ii) Trace operator and phase transition, and (iii) Critical exponents</b> will be summarized based on <a href="https://drive.google.com/drive/folders/1xk27urM1dFVMYPSYagm1ps2MIpxQBQk5?usp=sharing">Note 9 (a series of notes)</a> and <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11</a>. </p>

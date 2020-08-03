@@ -10,7 +10,7 @@ cover-img:
 <p style="text-align: justify"> </p>
 <p style="text-align: justify"> </p>
 
-##### Purpose of these summary articles: a roadmap for beginners
+<b> Purpose of these summary articles: a roadmap for beginners </b>
 
 <p style="text-align: justify"> Strictly speaking, these articles are not review articles. Instead, I wrote this them to record what I have learned about the materials simulation during the first half year of 2020, with all the references cited standardly.
 
@@ -20,7 +20,7 @@ cover-img:
 
 <p style="text-align: justify"> I am still working on writing these summary articles and they are organized generally in the following way: </p>
 
-##### Table of Contents
+<b> Table of Contents </b>
 
 1. General Perspectives on Materials Simulation 
 2. Polymer Physics 
@@ -31,17 +31,18 @@ cover-img:
 
 <p style="text-align: justify"> </p>
 
-### 1. General Perspectives on Materials Simulation
+<ol>
+  <li> 1. General Perspectives on Materials Simulation </li>
 <p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1kDah1F-wAiLNm8QHEpMBobOn7I9p0jaz/view?usp=sharing">link</a> to see the finished PDF file. </p>
 
 <p style="text-align: justify"> </p>
 
-### 2. Polymer Physics
+  <li> 2. Polymer Physics </li>
 <p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1PLAWguHrLTZ6jn2sdAVnEYv-bd2dI-r6/view?usp=sharing">link</a> to see the finished PDF file. </p>
 
 <p style="text-align: justify"> </p>
 
-### 3. Summary of the Molecular (or Atomistic) Scale Level Simulation Methods
+  <li> 3. Summary of the Molecular (or Atomistic) Scale Level Simulation Methods </li>
 <p style="text-align: justify"> I am currently working on the writing of the summary of the Density Functional Theory (DFT), Molecular Dynamics (MD) and Monte Carlo Methods. It will be posted here once finished. </p>
 
 <p style="text-align: justify"> </p>

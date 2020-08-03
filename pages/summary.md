@@ -7,6 +7,8 @@ cover-img:
 ---
 
 # Summary Articles
+<p style="text-align: justify"> </p>
+<p style="text-align: justify"> </p>
 
 ##### Purpose of these summary articles: a roadmap for beginners
 
@@ -19,6 +21,7 @@ cover-img:
 <p style="text-align: justify"> I am still working on writing these summary articles and they are organized generally in the following way: </p>
 
 ##### Table of Contents
+
 1. General Perspectives on Materials Simulation
 2. Polymer Physics
 3. Summary of the Molecular (or Atomistic) Scale Level Simulation Methods

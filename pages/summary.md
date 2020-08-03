@@ -90,3 +90,5 @@ This part, I will summarize the concepts very briefly related to (i) Reynolds nu
 <p style="text-align: justify"> </p>
 
 <b> 6. Some Simulation Examples </b>
+<p style="text-align: justify"> Later, I will introduce several polymer simulation projects published on GitHub here.</p>
+ 

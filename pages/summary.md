@@ -22,17 +22,12 @@ cover-img:
 
 <p style="text-align: justify"> <b> Table of Contents </b> </p>
 
-1. General Perspectives on Materials Simulation 
-
-2. Polymer Physics 
-
-3. Summary of the Molecular (or Atomistic) Scale Level Simulation Methods 
-
-4. Summary of the Microscale (Coarse-Grained Model) Level Simulation Methods 
-
-5. Very Brief Introduction to Mesoscale/Macroscale Level Simulation Methods
-
-6. Some simulation examples
+<p style="text-align: justify"> 1. General Perspectives on Materials Simulation
+<br>2. Polymer Physics 
+<br>3. Summary of the Molecular (or Atomistic) Scale Level Simulation Methods 
+<br>4. Summary of the Microscale (Coarse-Grained Model) Level Simulation Methods 
+<br>5. Very Brief Introduction to Mesoscale/Macroscale Level Simulation Methods
+<br>6. Some simulation examples </p>
 
 <p style="text-align: justify"> </p>
 <p style="text-align: justify"> </p>
@@ -60,7 +55,6 @@ cover-img:
 
 <p style="text-align: justify"> 4.1.1 Background Knowledge </p>
 
-* <p style="text-align: justify"> The Fluctuation-Dissipation Theorem </p>
 <p style="text-align: justify"> The Fluctuation-Dissipation Theorem is the basis of the Langevin dynamics. This part will be summarized based on <a href="https://drive.google.com/drive/folders/198Q3xKglre_yNkWnau_A_4KK9t9ybcp0?usp=sharing">Note 4 (a series of notes)</a>. </p>
 
 <p style="text-align: justify"> </p>

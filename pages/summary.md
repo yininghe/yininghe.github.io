@@ -50,8 +50,10 @@ cover-img:
 **4.1 Brownian Dynamics (BD)**
 
 4.1.1 Background Knowledge
-* <p style="text-align: justify"> The Fluctuation-Dissipation Theorem, which is the basis of the Langevin dynamics. </p>
+* <p style="text-align: justify"> The Fluctuation-Dissipation Theorem </p>
 <p style="text-align: justify"> The Fluctuation-Dissipation Theorem is the basis of the Langevin dynamics. This part will be summarized based on <a href="https://drive.google.com/drive/folders/198Q3xKglre_yNkWnau_A_4KK9t9ybcp0?usp=sharing">Note 4 (a series of notes)</a>. </p>
+
+<p style="text-align: justify"> </p>
 
 4.1.2 Brownian Dynamics (BD)
 <p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1ohz_ZVlydgGSDZZF2zYL934YFq2ttYSt/view?usp=sharing">link</a> to see the finished PDF file. </p>

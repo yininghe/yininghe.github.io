@@ -77,7 +77,7 @@ cover-img:
 <p style="text-align: justify"> <b><i> 4.4 Ginzburg–Landau Theory </i></b> </p>
 
 <p style="text-align: justify"> <u>4.4.1 Bakcground knowledge</u> </p>
-<p style="text-align: justify"> The concepts of <b>(i) Phase space, (ii) Trace operator and phase transition, and (iii) Critical exponents</b> will be summarized based on <a href="https://drive.google.com/drive/folders/1xk27urM1dFVMYPSYagm1ps2MIpxQBQk5?usp=sharing">Note 9 (a series of notes)</a> and <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11</a>. </p>
+<p style="text-align: justify"> The concepts of (i) Phase space, (ii) Trace operator and phase transition, and (iii) Critical exponents will be summarized based on <a href="https://drive.google.com/drive/folders/1xk27urM1dFVMYPSYagm1ps2MIpxQBQk5?usp=sharing">Note 9 (a series of notes)</a> and <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11</a>. </p>
 
 <p style="text-align: justify"> <u>4.4.2 Ginzburg–Landau Theory</u> </p>
 <p style="text-align: justify"> The Ginzburg–Landau Theory will be summarized based on <a href="https://drive.google.com/drive/folders/1xk27urM1dFVMYPSYagm1ps2MIpxQBQk5?usp=sharing">Note 9 (a series of notes)</a>. </p>

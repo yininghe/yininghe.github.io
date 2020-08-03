@@ -26,22 +26,36 @@ cover-img:
 5. Very Brief Introduction to Mesoscale/Macroscale Level Simulation Methods
 6. Some simulation examples
 
+<p style="text-align: justify"> </p>
 
 ### 1. General Perspectives on Materials Simulation
 <p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1kDah1F-wAiLNm8QHEpMBobOn7I9p0jaz/view?usp=sharing">link</a> to see the finished PDF file. </p>
 
+<p style="text-align: justify"> </p>
+
 ### 2. Polymer Physics
 <p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1PLAWguHrLTZ6jn2sdAVnEYv-bd2dI-r6/view?usp=sharing">link</a> to see the finished PDF file. </p>
+
+<p style="text-align: justify"> </p>
 
 ### 3. Summary of the Molecular (or Atomistic) Scale Level Simulation Methods
 <p style="text-align: justify"> I am currently working on the writing of the summary of the Density Functional Theory (DFT), Molecular Dynamics (MD) and Monte Carlo Methods. It will be posted here once finished. </p>
 
+<p style="text-align: justify"> </p>
+
 ### 4. Summary of the Microscale (Coarse-Grained Model) Level Simulation Methods
 **4.1 Brownian Dynamics (BD)**
+<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1ohz_ZVlydgGSDZZF2zYL934YFq2ttYSt/view?usp=sharing">link</a> to see the finished PDF file. </p>
+
+<p style="text-align: justify"> </p>
 
 **4.2 Dissipative Particle Dynamics (DPD)**
 
+<p style="text-align: justify"> </p>
+
 **4.3 Lattice Boltzmann Methods**
+
+<p style="text-align: justify"> </p>
 
 **4.4 Ginzburg–Landau Theory**
 
@@ -50,7 +64,11 @@ cover-img:
 
 4.4.2 Ginzburg–Landau Theory
 
+<p style="text-align: justify"> </p>
+
 ### 5. Very Brief Introduction to Mesoscale/Macroscale Level Simulation Methods
 **5.1 **
+
+<p style="text-align: justify"> </p>
 
 ### 6. Some Simulation Examples

@@ -90,6 +90,7 @@ cover-img:
 <p style="text-align: justify"> </p>
 
 <b> 5. Very Brief Introduction to Mesoscale/Macroscale Level Simulation Methods </b>
+
 This part, I will summarize the concepts very briefly related to (i) Reynolds number (Re), (ii) the Naview-Stokes equations and the (iii) Computational Fluid Dynamics (CFD (a popular subject in the field of mechanical engineering) based on <a href="https://drive.google.com/file/d/1gI_B-gzNL3P3xuXzXAO9uvvM9_g0sYMv/view?usp=sharing">Note 10</a> and <a href="https://drive.google.com/file/d/1mknpAKVLXZ2P007IlklXQD7ccbgKdilX/view?usp=sharing">Note 11</a>.
 
 <p style="text-align: justify"> </p>

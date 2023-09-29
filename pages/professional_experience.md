@@ -65,7 +65,7 @@ cover-img:
 
 
 ### 4. Download My CV 
-<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1kup2rK-AbDI_OVYOgqJx4dpmkzV97PI9/view?usp=sharing">link</a> to download my CV.</p>
+<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1Ope99ZBIZ2xICd_krYKEsK2I6nurJ6os/view">link</a> to download my CV.</p>
 
 
 ### Reference

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Know More About Me...
+title: Know More About Me Professionally...
 cover-img: 
   - "./assets/img/study_img/old_municipal_building_sb.png" : "The Old Municipal Building @Santa Barbara, CA, Aug 2016"
   - "./assets/img/study_img/roadbeach.png" : "A beach in California, May 2017"

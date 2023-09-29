@@ -12,12 +12,8 @@ cover-img:
 <p style="text-align: justify"> My name is Yining He, and I am currently a PhD candidate in the the Chemical Engineering and Materials Science department, Michigan State University. My advisor is Professor Wei Lai (<a href="https://weilaigroup.org">Weilai Group</a>). My expected graduation date is August 2025, and I am now looking for internship opportunities in industry for the 2024 Summer.</p>
 
 
-### Research Interests and Projects
-  
-<p style="text-align: justify"> With the rapid development of the computing power, materials modeling/simulation has become more and more powerful as a tool to study materials' properties besides theory and experiments. Nowadays, it has been used to predict materials properties and provide us physical insight to some phenomena, for example, it could predict the properties of materials “<i>that have not (yet) been synthesized or are at atomistic scales that cannot be readily interrogated experimentally</i>”.[1] I believe this materials modeling/simulation field will develop very fast in the foreseeable future, with the dramatic development of chip hardware/software/algorithms (i.e. the use of machine learning). </p>
+### Research Projects
 
-<p style="text-align: justify"> For the programming part, I have taken classes about Python and Java while at MSU and USC in order to learn these two languages systematically. I have also self-studied Matlab while at MSU and Fortran while at USC. If you would like to know more about what I have prepared for the programming part, please check <a href="pages/aboutme">ABOUT ME</a>. </p>
+<p style="text-align: justify"> **Project 1**: Used machine-learning (ML) based interatomic potentials (IPs) to investigate the Na ion diffusion behavior and dynamics inside the electrode materials (Sodium Nickle titanates, Nax[NiTi]O2) of the Sodium-ion battery (SIB). As compared to the traditional IPs, this new machine-learning based IP is more accurate and run much faster, meaning a much reduced computation cost. With this machine-learning based IP, we demonstrated the diffusion mechanisms of Na ions, which povides insights for future Na-ion battery electrode design. (<a href="https://doi.org/10.1016/j.ssi.2023.116298">Link to the paper</a>). </p>
 
-
-#### Reference
-<p style="text-align: justify"> [1] H. Zuilhof, S. H. Yu, and D. S. Sholl, “Writing Theory and Modeling Papers for Langmuir: The Good, the Bad, and the Ugly,” Langmuir, vol. 34, no. 5. American Chemical Society, pp. 1817–1818, 06-Feb-2018. </p>
+<p style="text-align: justify"> **Project 2**: Currently working on using interatomic potentials (IPs) to investigate the H2 and ion diffusion inside ionic liquids which could be used for H2 detector. </p>

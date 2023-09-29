@@ -13,8 +13,7 @@ cover-img:
 
 
 ### Research Projects
-**Project 1**: 
-<p style="text-align: justify"> Used machine-learning (ML) based interatomic potentials (IPs) to investigate the Na ion diffusion behavior and dynamics inside the electrode materials (Sodium Nickle titanates, Nax[NiTi]O2) of the Sodium-ion battery (SIB). As compared to the traditional IPs, this new machine-learning based IP is more accurate and run much faster, meaning a much reduced computation cost. With this machine-learning based IP, we demonstrated the diffusion mechanisms of Na ions, which povides insights for future Na-ion battery electrode design. (<a href="https://doi.org/10.1016/j.ssi.2023.116298">Link to the paper</a>). </p>
 
-**Project 2**: 
-<p style="text-align: justify"> Currently working on using interatomic potentials (IPs) to investigate the H2 and ion diffusion inside ionic liquids which could be used for H2 detector. </p>
+<p style="text-align: justify"> Project 1: Used machine-learning (ML) based interatomic potentials (IPs) to investigate the Na ion diffusion behavior and dynamics inside the electrode materials (Sodium Nickle titanates, Nax[NiTi]O2) of the Sodium-ion battery (SIB). As compared to the traditional IPs, this new machine-learning based IP is more accurate and run much faster, meaning a much reduced computation cost. With this machine-learning based IP, we demonstrated the diffusion mechanisms of Na ions, which povides insights for future SIB electrode design. (<a href="https://doi.org/10.1016/j.ssi.2023.116298">Link to the paper</a>). </p>
+ 
+<p style="text-align: justify"> Project 2: Currently working on using interatomic potentials (IPs) to investigate the H2 and ion diffusion inside ionic liquids which could be used for H2 detector. </p>

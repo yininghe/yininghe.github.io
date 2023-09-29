@@ -12,9 +12,8 @@ author: Yining He
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "/pages/aboutme"
-  Study Notes on Materials Simulation: "/pages/study_notes"
-  Summary Articles: "/pages/summary"
+  Experience: "/pages/aboutme"
+  Hobbies: "/pages/summary"
   Download CV: "https://drive.google.com/file/d/1Ope99ZBIZ2xICd_krYKEsK2I6nurJ6os/view?usp=drive_link"
 
 # --- Logo --- #

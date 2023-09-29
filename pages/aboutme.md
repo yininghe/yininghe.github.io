@@ -9,7 +9,7 @@ cover-img:
 # Know More About me
 <p style="text-align: justify"> </p>
 <p style="text-align: justify"> </p>
-<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1kup2rK-AbDI_OVYOgqJx4dpmkzV97PI9/view?usp=sharing">link</a> to download my CV.</p>
+<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1Ope99ZBIZ2xICd_krYKEsK2I6nurJ6os/view?usp=drive_link">link</a> to download my CV.</p>
 
 ### 1. Programming
 <p style="text-align: justify"> </p>

@@ -14,9 +14,26 @@ cover-img:
 ## 1. PROJECTS & RESEARCH EXPERIENCE
 <p style="text-align: justify"> </p>
 
-WeiLai Research Group ([Website](https://weilaigroup.org/))<br />
-Graduate Research Assistant, Advisor: (Dr. Wei Lai)
-- 
+1.1 **WeiLai Research Group** ([Website](https://weilaigroup.org/))<br /> 
+_Graduate Research Assistant, 2020-now _
+* <p style="text-align: justify"> Used machine-learning based simulation techniques to investigate the Na ion diffusion behavior and dynamics inside the electrode materials (Sodium Nickle titanates, Nax[NiTi]O2) of the Sodium-ion battery (SIB). </p>
+
+1.2 **Fraunhofer USA (CCD), 3D Printing Group** ([Website](https://www.egr.msu.edu/fraunhofer-usa-cmw/group-members))<br /> 
+_Graduate Research Assistant, 2020-now _
+* <p style="text-align: justify"> Worked on the PLA filament using the 3D printer (GERMAN REPRAP X400) and investigated on the effect of microwave plasma on the mechanical property (e.g., strength, hardness) of the printed structure. </p>
+* <p style="text-align: justify"> Prepared the BaTiO3/PVDF polymer nanocomposite inks (so that they can be directly printed as dielectric layers) for printed electric circuits. </p>
+* <p style="text-align: justify"> Published a conference (EuMA) paper as a co-author (DOI: 10.23919/eumc.2019.8910820). </p>
+
+1.3 **Experience Related to Electronic Materials** <br /> 
+_Graduate Research Assistant, 2020-now _
+* <p style="text-align: justify"> </p>
+* <p style="text-align: justify"> </p>
+* <p style="text-align: justify"> </p>
+
+
+
+
+
 
 #### 1.1 Python 
 * <p style="text-align: justify"> This summer, I took a class of Python (CSE231) and learned various data structures of Python, including string, function, list, tuple, dictionary, set, class and so on. Finished the readings of Chapters 1-9, 11-12 of the book <i> The Practice of Computing Using Python </i> .[1]</p>

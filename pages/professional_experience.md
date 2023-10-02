@@ -61,7 +61,22 @@ _Teaching Assistant, 2017 Fall & 2020 Spring & 2022 Spring & 2023 Spring_
 
 
 
-## 3. PUBLICATION LISTS
+## 3. PROFESSIONAL ACTIVITIES
+<p style="text-align: justify"> </p>
+
+* MSU ChEMS Research Forum 2023, **Poster Presentation**: Computational Study of Na Diffusion and Conduction in Layered Na2x[NixTi1-x]O2 Electrode Materials with Machine-Learning Interatomic Potentials
+
+* ICFE2019
+
+
+**1.1** **WeiLai Research Group** ([Website](https://weilaigroup.org/))<br /> 
+_Graduate Research Assistant, 2020-now_
+* <p style="text-align: justify"> Used machine-learning based simulation techniques to investigate the Na ion diffusion behavior and dynamics inside the electrode materials (Sodium Nickle titanates, Nax[NiTi]O2) of the Sodium-ion battery (SIB). </p>
+<p style="text-align: justify"> </p>
+
+
+## 4. PUBLICATION LISTS
+<p style="text-align: justify"> </p>
 
 * <p style="text-align: justify"> Dong, X., Pham, T. A., Xu, C., He, Y., Lai, W., Ke, X., & Zhang, P. (2023). Growth and Electronic Properties of SnSe2 Films on Reconstructed,(111)-Oriented SrTiO3 Substrates. The Journal of Physical Chemistry C. </p>
 

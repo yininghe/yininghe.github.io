@@ -1,18 +1,22 @@
 ---
 layout: page
-title: Know More About Me Professionally...
+title: Professional Experience
 cover-img: 
   - "./assets/img/study_img/old_municipal_building_sb.png" : "The Old Municipal Building @Santa Barbara, CA, Aug 2016"
   - "./assets/img/study_img/roadbeach.png" : "A beach in California, May 2017"
 ---
 
-# Know More About me
+# Know More About My Professional Experience
 <p style="text-align: justify"> </p>
 <p style="text-align: justify"> </p>
 <p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1Ope99ZBIZ2xICd_krYKEsK2I6nurJ6os/view?usp=drive_link">link</a> to download my CV.</p>
 
-### 1. Programming
+## 1. PROJECTS & RESEARCH EXPERIENCE
 <p style="text-align: justify"> </p>
+
+- **Weilai Research Group** [title](https://weilaigroup.org/)
+
+
 
 #### 1.1 Python 
 * <p style="text-align: justify"> This summer, I took a class of Python (CSE231) and learned various data structures of Python, including string, function, list, tuple, dictionary, set, class and so on. Finished the readings of Chapters 1-9, 11-12 of the book <i> The Practice of Computing Using Python </i> .[1]</p>

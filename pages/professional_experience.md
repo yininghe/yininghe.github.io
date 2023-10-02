@@ -67,7 +67,7 @@ _Teaching Assistant, 2017 Fall & 2020 Spring & 2022 Spring & 2023 Spring_
 * He, Y., Chen, Q., & Lai, W. (2023). Computational study of Na diffusion and conduction in P2-and O3-Na2x [NixTi1-x] O2 materials with machine-learning interatomic potentials. Solid State Ionics, 399, 116298.
 * Chanakian, S., Stolt, B., Park, J., He, Y., Lai, W., & Zevalkink, A. (2023). Origins of ultralow thermal conductivity in mixed-ion-electron conductor KAg 2 SbS 4. Bulletin of the American Physical Society.
 * Craton, M. T., He, Y., Roch, A., Chahal, P., & Papapolymerou, J. (2019, October). Additively manufactured interdigitated capacitors using barium titanate nanocomposite inks. In 2019 49th European Microwave Conference (EuMC) (pp. 488-491). IEEE.
-Qin, Y., Zhang, J., He, Y., Han, Y., Zou, N., Li, Y., ... & Pan, C. (2016). Automated multiplug filtration cleanup for pesticide residue analyses in Kiwi fruit (Actinidia chinensis) and Kiwi juice by gas chromatography–mass spectrometry. Journal of agricultural and food chemistry, 64(31), 6082-6090.
+* Qin, Y., Zhang, J., He, Y., Han, Y., Zou, N., Li, Y., ... & Pan, C. (2016). Automated multiplug filtration cleanup for pesticide residue analyses in Kiwi fruit (Actinidia chinensis) and Kiwi juice by gas chromatography–mass spectrometry. Journal of agricultural and food chemistry, 64(31), 6082-6090.
 
 
 

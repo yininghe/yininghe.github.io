@@ -10,7 +10,7 @@ cover-img:
 ## Interests:
 
 **1** **Big Fan of Soccer** <br /> 
-* <p style="text-align: justify"> Play soccer regularly, like once a week. Has participated in some amateur soccer league before. </p>
+* <p style="text-align: justify"> Play soccer regularly, like once a week. Have participated in some amateur soccer league before. </p>
 * <p style="text-align: justify"> I play right-back and I have fast speed and good passing. </p>
 * <p style="text-align: justify"> Fan of the French national team since year 2006 & Arsenal since 2010. </p>
 * <p style="text-align: justify"> Favorite player: Thierry Henry & Zinedine Zidane. </p>

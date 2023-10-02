@@ -14,7 +14,7 @@ cover-img:
 ## 1. PROJECTS & RESEARCH EXPERIENCE
 <p style="text-align: justify"> </p>
 
-- **WeiLai Research Group** [Website](https://weilaigroup.org/)
+- **WeiLai Research Group** ([Website](https://weilaigroup.org/))
 
 
 

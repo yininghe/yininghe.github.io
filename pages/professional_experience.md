@@ -14,9 +14,9 @@ cover-img:
 ## 1. PROJECTS & RESEARCH EXPERIENCE
 <p style="text-align: justify"> </p>
 
-- **WeiLai Research Group** ([Website](https://weilaigroup.org/))
-
-
+**1.1 WeiLai Research Group** ([Website](https://weilaigroup.org/))
+Graduate Research Assistant, Advisor: (Dr. Wei Lai)
+- 
 
 #### 1.1 Python 
 * <p style="text-align: justify"> This summer, I took a class of Python (CSE231) and learned various data structures of Python, including string, function, list, tuple, dictionary, set, class and so on. Finished the readings of Chapters 1-9, 11-12 of the book <i> The Practice of Computing Using Python </i> .[1]</p>

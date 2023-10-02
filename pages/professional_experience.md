@@ -64,7 +64,7 @@ _Teaching Assistant, 2017 Fall & 2020 Spring & 2022 Spring & 2023 Spring_
 ## 3. PROFESSIONAL ACTIVITIES
 <p style="text-align: justify"> </p>
 
-* MSU ChEMS Research Forum 2023, **Poster Presentation**: Computational Study of Na Diffusion and Conduction in Layered Na2x[NixTi1-x]O2 Electrode Materials with Machine-Learning Interatomic Potentials
+* MSU ChEMS Research Forum 2023, **Poster Presentation**: _Computational Study of Na Diffusion and Conduction in Layered Na2x[NixTi1-x]O2 Electrode Materials with Machine-Learning Interatomic Potentials_
 
 * ICFE2019
 

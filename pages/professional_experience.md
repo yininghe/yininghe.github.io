@@ -14,7 +14,7 @@ cover-img:
 ## 1. PROJECTS & RESEARCH EXPERIENCE
 <p style="text-align: justify"> </p>
 
-1.1 **WeiLai Research Group** ([Website](https://weilaigroup.org/))<br />
+WeiLai Research Group ([Website](https://weilaigroup.org/))<br />
 Graduate Research Assistant, Advisor: (Dr. Wei Lai)
 - 
 

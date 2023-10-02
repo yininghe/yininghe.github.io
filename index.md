@@ -15,10 +15,10 @@ cover-img:
 - **PhD Program**, Michigan State University (MSU)<br />
 _Major: Materials Science, 2017 – Present_
 
-- **M. S.**, University of Southern California (USC)
+- **M. S.**, University of Southern California (USC)<br />
 _Major: Materials Engineering, 2015 – 2017_
 
-- **B. S.**, China Agricultural University (CAU)
+- **B. S.**, China Agricultural University (CAU)<br />
 _Major: Chemistry, 2010 – 2015_
 
 

@@ -22,7 +22,7 @@ cover-img:
 * <p style="text-align: justify"> Reveived professional trainings for 5 year in my childhood. </p>
 * <p style="text-align: justify"> I play table tennis once a week. </p>
 * <p style="text-align: justify"> Current USATT rating: 1710. </p>
-* <p style="text-align: justify"> Currently serving as a Co-VP & social-chair for our MSU college table tennis club. </p>
+* <p style="text-align: justify"> Currently serving as a Co-VP & social-chair for our MSU table tennis club. </p>
 * <p style="text-align: justify"> Favorite player: Xin Xu. </p>
 
 **3** **Traveling** <br /> 

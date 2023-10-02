@@ -8,7 +8,26 @@ cover-img:
 
 
 ## Interests:
-* Big fan of soccer. Participated in several amateur soccer league before. Fan of French national team
 
-* <p style="text-align: justify"> I like to play soccer and table tennis during my spare time. I usually play right-back on the field and I am good at speed and passing. </p>
+**1** **Big Fan of Soccer** <br /> 
+* <p style="text-align: justify"> Play soccer regularly, like once a week. Has participated in some amateur soccer league before. </p>
+* <p style="text-align: justify"> I play right-back and I have fast speed and good passing. </p>
+* <p style="text-align: justify"> Fan of the French national team since year 2006 & Arsenal since 2010. </p>
+* <p style="text-align: justify"> Favorite player: Thierry Henry & Zinedine Zidane. </p>
+* <p style="text-align: justify"> Player I learn from: Achraf Hakimi (Team of PSG & Morocco). </p>
+
+
+
+**2** **Table Tennis** <br /> 
+* <p style="text-align: justify"> Reveived professional trainings for 5 year in my childhood. </p>
+* <p style="text-align: justify"> I play table tennis once a week. </p>
+* <p style="text-align: justify"> Current USATT rating: 1710. </p>
+* <p style="text-align: justify"> Currently serving as a Co-VP & social-chair for our MSU college table tennis club. </p>
+* <p style="text-align: justify"> Favorite player: Xin Xu. </p>
+
+**3** **Traveling** <br /> 
+* <p style="text-align: justify"> Museums. </p>
+* <p style="text-align: justify"> National Parks. </p>
+
+
  

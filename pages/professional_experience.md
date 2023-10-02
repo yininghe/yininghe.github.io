@@ -52,26 +52,4 @@ _Teaching Assistant, 2017 Fall & 2020 Spring & 2022 Spring & 2023 Spring_
 * <p style="text-align: justify"> Graded lab reports, quizzes and exams. </p>
 
 
-#### 1.1 Python 
-
-
-* <p style="text-align: justify"> Here I attached the list of the 6 class projects I have finished using Python. If you have interest, please check the <a href="https://drive.google.com/drive/folders/1Lp1VTEmsLFz93kLzTfxlGmvEO5mB_0y6?usp=sharing">link</a>. So far during the past 2 months, I have gained an experience of Python of 3,000 ~ 4,000 lines. </p>
-
-
-
-### 3. Personal Life 
-<p style="text-align: justify"> </p>
-
-#### 3.1 Networking (Sigma Phi Delta Fraternity)
-* <p style="text-align: justify"> To broaden my professional horizons and improve my networking skills, I joined Sigma Phi Delta while at USC, which is an international professional-social fraternity for engineers. I got to know many alumni there and learned a lot from their experience. </p>
-
-#### 3.2 USC & Tibet --- Volunteer Teachers
-* <p style="text-align: justify"> In the first year at USC, I participated in the Inner City Tutoring Program organized by the USC Caruso Catholic Center, and volunteered to be a Math tutor every Monday afternoon at the St. Columbkille School for almost 7 months. </p>
-
-* <p style="text-align: justify"> In the July of year 2013 and 2014, I volunteered to be a teacher for one month at Lhasa Caiquan Welfare Special School in Tibet for twice. </p>
-
-
-### 4. Download My CV 
-<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1Ope99ZBIZ2xICd_krYKEsK2I6nurJ6os/view">link</a> to download my CV.</p>
-
 

@@ -68,11 +68,8 @@ _Teaching Assistant, 2017 Fall & 2020 Spring & 2022 Spring & 2023 Spring_
 
 * ICFE2019
 
-
-**1.1** **WeiLai Research Group** ([Website](https://weilaigroup.org/))<br /> 
-_Graduate Research Assistant, 2020-now_
-* <p style="text-align: justify"> Used machine-learning based simulation techniques to investigate the Na ion diffusion behavior and dynamics inside the electrode materials (Sodium Nickle titanates, Nax[NiTi]O2) of the Sodium-ion battery (SIB). </p>
 <p style="text-align: justify"> </p>
+
 
 
 ## 4. PUBLICATION LISTS

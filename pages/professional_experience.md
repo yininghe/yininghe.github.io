@@ -93,8 +93,3 @@ _Undergraduate Research Assistant, 05/2014-07/2014 & 01/2015-06/2015_
 <p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1Ope99ZBIZ2xICd_krYKEsK2I6nurJ6os/view">link</a> to download my CV.</p>
 
 
-### Reference
-<p style="text-align: justify"> [1] Punch, William F., and Richard Enbody. The practice of computing using python. Addison-Wesley Publishing Company, 2010. </p>
-
-<p style="text-align: justify"> [2] Horstmann, Cay S. Big Java: early objects. John Wiley & Sons, 5th Edition. </p>
-

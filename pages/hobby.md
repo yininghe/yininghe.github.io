@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Know More About My Personally 
+title: Know More About Me Personally 
 cover-img: 
   - "./assets/img/perspective_img/Yosemite2.png" : "Yosemite National Park , Jun 2016"
   - "./assets/img/perspective_img/golden_gate_bridge.png" : "The Golden Gate Bridge @San Francisco, May 2017"
@@ -19,7 +19,7 @@ cover-img:
 
 
 **2** **Table Tennis** <br /> 
-* <p style="text-align: justify"> Reveived professional trainings for 5 year in my childhood. </p>
+* <p style="text-align: justify"> Received professional trainings for 5 year in my childhood. </p>
 * <p style="text-align: justify"> I play table tennis once a week. </p>
 * <p style="text-align: justify"> Current USATT rating: 1710. </p>
 * <p style="text-align: justify"> Currently serving as a Co-VP & social-chair for our MSU table tennis club. </p>

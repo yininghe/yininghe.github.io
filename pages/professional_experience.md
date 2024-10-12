@@ -9,7 +9,7 @@ cover-img:
 # Know More About My Professional Experience
 <p style="text-align: justify"> </p>
 <p style="text-align: justify"> </p>
-<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1Ope99ZBIZ2xICd_krYKEsK2I6nurJ6os/view?usp=drive_link">link</a> to download my CV.</p>
+<p style="text-align: justify"> Click the <a href="https://drive.google.com/file/d/1FWvgUYE4wPk5XRcq7SPUFHsSizOmZpB7/view?usp=sharing">link</a> to download my Resume.</p>
 
 
 

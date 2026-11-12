@@ -1,0 +1,131 @@
+# CV page content (rendered by the al_folio_cv plugin, RenderCV-style YAML).
+# The downloadable PDF is assets/pdf/CV_Yining_He.pdf (replace the file, keep the name).
+# Keep this in sync with the PDF. Dates render as years only (e.g. 2017 - 2027).
+cv:
+  name: Yining He
+  label: Ph.D. Candidate | Computational Materials Scientist
+  email: heyinin1@msu.edu
+  address:
+    city: Detroit
+    region: MI (open to relocation)
+  summary: "Computational materials scientist with expertise in developing predictive models for electrochemical battery and gas sensor technologies. Expected graduation: January 2027."
+
+  sections:
+    Experience:
+      - company: Michigan State University (MSU)
+        position: Computational Materials Science Researcher (Ph.D.)
+        location: East Lansing, MI
+        start_date: 2020-11
+        end_date: 2027-01
+        summary: Anticipated completion January 2027.
+        highlights:
+          - Developed and validated machine-learning interatomic potentials (MLIPs) to accelerate Na-ion diffusion simulations for sodium-ion battery (SIB) electrodes while maintaining near-DFT accuracy, enabling larger system sizes and longer time scales on MSU's high-performance computing cluster.
+          - Quantified structure-property relationships (e.g., Na<sup>+</sup> diffusion pathways, residence time) and converted them into design rules that guide experimental electrode selection for next-generation sodium-ion batteries.
+          - Employed Monte Carlo simulations to predict H<sub>2</sub> solubility in ionic-liquid electrolytes for H<sub>2</sub> gas sensors, and designed and executed MD simulations of the Pt/ionic-liquid interface to characterize electric double layer (EDL) structure, ion transport, and H<sub>2</sub> behavior under sensing conditions.
+          - Identified the electrolyte formulation that explains the higher H<sub>2</sub> sensitivity of the sensor, supporting safer hydrogen production, storage, transportation, and utilization.
+          - Collaborated with experimentalists in electrochemistry and materials characterization to align simulation results with lab data, resolve discrepancies, and propose follow-up experiments.
+          - Supervised 80+ undergraduate students in materials characterization labs (electrochemical tests - CA, CP, CV, PEIS; mechanical tests - tensile, hardness, fracture; structural tests - SEM, XRD) and answered questions for 100+ students.
+
+      - company: Fraunhofer USA Center Midwest (CMW), Michigan State University
+        position: 3D Printing Researcher
+        location: East Lansing, MI
+        start_date: 2017-11
+        end_date: 2019-11
+        highlights:
+          - Designed and ran experiments to evaluate polymer filaments and process windows for Fused Deposition Modeling (FDM) 3D printing, correlating print parameters and microwave plasma treatments with mechanical performance (strength, hardness).
+          - Formulated BaTiO<sub>3</sub>/PVDF polymer nanocomposite inks for flexible printed electronics, optimizing particle dispersion, viscosity, and curing profiles to improve mechanical properties.
+          - Partnered with electrical engineers to integrate printed BaTiO<sub>3</sub>/PVDF nanocomposites into flexible circuit prototypes and characterize their electrical performance, contributing to a peer-reviewed publication.
+
+      - company: Beijing Advanced Innovation Center for Food Nutrition, China Agricultural University (CAU)
+        position: Pesticide Residue Analyst (summer positions)
+        location: Beijing, China
+        start_date: 2014
+        end_date: 2015
+        highlights:
+          - Prepared pesticide-spiked liquor and agricultural product samples (kiwi, bean sprouts, raw grains) using rotary evaporation and other wet-chemistry techniques to enable quantitative residue analysis.
+          - Performed pesticide residue testing and preliminary data analysis to evaluate food safety, contributing to a peer-reviewed publication as a co-author.
+
+    Education:
+      - institution: Michigan State University (MSU)
+        area: Materials Science
+        studyType: Ph.D.
+        location: East Lansing, MI
+        start_date: 2017-08
+        end_date: 2027-01
+        highlights:
+          - "Anticipated graduation January 2027. Advisor: Prof. Wei Lai."
+
+      - institution: University of Southern California (USC)
+        area: Materials Engineering
+        studyType: M.S.
+        location: Los Angeles, CA
+        start_date: 2015-08
+        end_date: 2017-05
+
+      - institution: China Agricultural University (CAU)
+        area: Chemistry
+        studyType: B.S.
+        location: Beijing, China
+        start_date: 2010-09
+        end_date: 2015-06
+
+    Skills:
+      - name: Research
+        keywords:
+          - 5+ years of atomistic modeling and multiscale simulation for electrochemical systems (battery electrodes, sensor electrolytes, liquid/solid interfaces)
+      - name: Programming & Data
+        keywords: [MATLAB, Linux, HPCC (high-performance computing cluster), Python]
+      - name: Simulation
+        keywords: [Molecular dynamics (LAMMPS, GROMACS), DFT (VASP), Monte Carlo, Machine-learning interatomic potential (MLIP) development and deployment]
+      - name: Lab
+        keywords: [Electrochemical testing (CA, CP, CV, PEIS), Mechanical testing (tensile, hardness), SEM, XRD, DSC, TGA, 3D printing]
+
+    Publications:
+      - title: Understanding the effect of applied potentials on interfacial ionic arrangement at ionic liquid [Bmpy][NTf<sub>2</sub>] and Pt interface under hydrogen oxidation reaction
+        publisher: Electrochimica Acta, 560, 148664
+        releaseDate: 2026
+        url: https://doi.org/10.1016/j.electacta.2026.148664
+        summary: Arora, K., **He, Y.**, Lai, W., & Zeng, X.
+
+      - title: "[Bmpy] or [Bmim]: which is better for H<sub>2</sub> sensing?"
+        publisher: Physical Chemistry Chemical Physics, 27(21), 10962-10978 (2025 PCCP HOT Article)
+        releaseDate: 2025
+        url: https://doi.org/10.1039/d5cp00642b
+        summary: "**He, Y.**, Glossmann, T., Zeng, X., & Lai, W."
+
+      - title: Computational study of Na diffusion and conduction in P2- and O3-Na<sub>2x</sub>[Ni<sub>x</sub>Ti<sub>1−x</sub>]O<sub>2</sub> materials with machine-learning interatomic potentials
+        publisher: Solid State Ionics, 399, 116298
+        releaseDate: 2023
+        url: https://doi.org/10.1016/j.ssi.2023.116298
+        summary: "**He, Y.**, Chen, Q., & Lai, W."
+
+      - title: Growth and electronic properties of SnSe<sub>2</sub> films on reconstructed, (111)-oriented SrTiO<sub>3</sub> substrates
+        publisher: The Journal of Physical Chemistry C, 127(33), 16732-16739
+        releaseDate: 2023
+        url: https://doi.org/10.1021/acs.jpcc.3c04609
+        summary: Dong, X., Pham, T. A., Xu, C., **He, Y.**, Lai, W., Ke, X., & Zhang, P.
+
+      - title: Additively manufactured interdigitated capacitors using barium titanate nanocomposite inks
+        publisher: 2019 49th European Microwave Conference (EuMC), 488-491. IEEE
+        releaseDate: 2019
+        url: https://doi.org/10.23919/eumc.2019.8910820
+        summary: Craton, M. T., **He, Y.**, Roch, A., Chahal, P., & Papapolymerou, J.
+
+      - title: Automated multiplug filtration cleanup for pesticide residue analyses in kiwi fruit (<i>Actinidia chinensis</i>) and kiwi juice by gas chromatography-mass spectrometry
+        publisher: Journal of Agricultural and Food Chemistry, 64(31), 6082-6090
+        releaseDate: 2016
+        url: https://doi.org/10.1021/acs.jafc.5b06027
+        summary: Qin, Y., Zhang, J., **He, Y.**, Han, Y., Zou, N., Li, Y., ... & Pan, C.
+
+    Honors and Awards:
+      - title: 2025 PCCP HOT Article
+        awarder: Physical Chemistry Chemical Physics
+        date: 2025
+        summary: "First-author paper \"[Bmpy] or [Bmim]: which is better for H<sub>2</sub> sensing?\" selected as a PCCP HOT Article."
+      - title: Oral presentation, 2024 MRS Fall Meeting
+        awarder: Materials Research Society, Boston, MA
+        date: 2024-12
+        summary: Molecular simulation of ionic-liquid H<sub>2</sub> sensors (Session CH02.07.03).
+
+    Teaching:
+      - bullet: "Graduate teaching assistant and laboratory instructor, Department of Chemical Engineering and Materials Science, MSU: supervised 80+ undergraduate students in materials characterization labs (electrochemical, mechanical, SEM/XRD) and provided guidance and office-hour instruction to 100+ students."

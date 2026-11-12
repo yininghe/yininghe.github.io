@@ -5,7 +5,7 @@ date: 2026-11-12 11:00:00-0500
 description: "Atom-by-atom simulations, checked against my collaborators' experiments, explain why one ionic liquid makes a more sensitive hydrogen leak sensor."
 tags: hydrogen-energy hydrogen-sensors ionic-liquids molecular-dynamics
 categories: research
-giscus_comments: false # set to true once giscus repo_id/category_id are filled in _config.yml
+giscus_comments: true
 related_posts: false
 ---
 

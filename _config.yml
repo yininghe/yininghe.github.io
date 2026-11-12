@@ -152,9 +152,9 @@ related_blog_posts:
 giscus:
   repo: yininghe/yininghe.github.io
   # Until repo_id and category_id are set, the Guestbook on the Contact page shows "coming soon" and per-post comments stay off.
-  repo_id: # TODO(Peter): fill after enabling GitHub Discussions + installing giscus app (https://giscus.app)
-  category: Comments # name of the category under which discussions will be created
-  category_id: # TODO(Peter): fill after enabling GitHub Discussions + installing giscus app (https://giscus.app)
+  repo_id: MDEwOlJlcG9zaXRvcnkyNzk2OTc1MzU=
+  category: Announcements # giscus-recommended: only maintainers and giscus can create discussions here
+  category_id: DIC_kwDOEKvYf84DK_ig
   mapping: title # identify discussions by post title
   strict: 1 # use strict identification mode
   reactions_enabled: 1 # enable (1) or disable (0) emoji reactions

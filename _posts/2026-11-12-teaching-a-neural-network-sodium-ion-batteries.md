@@ -5,7 +5,7 @@ date: 2026-11-12 10:00:00-0500
 description: "How I trained a neural network on quantum calculations to watch sodium ions hop and shuffle through battery electrodes for storing wind and solar energy."
 tags: machine-learning sodium-ion-batteries molecular-dynamics renewable-energy
 categories: research
-giscus_comments: false # set to true once giscus repo_id/category_id are filled in _config.yml
+giscus_comments: true
 related_posts: false
 ---
 

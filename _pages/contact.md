@@ -7,7 +7,7 @@ nav: true
 nav_order: 7
 # TODO(Peter): create a free access key at https://web3forms.com (it is tied to heyinin1@msu.edu) and paste it below.
 # While the value is still YOUR_WEB3FORMS_ACCESS_KEY the form is disabled and a note is shown instead.
-web3forms_access_key: YOUR_WEB3FORMS_ACCESS_KEY
+web3forms_access_key: 68cea5da-cabe-4afa-9c99-2d77d49a75e1
 ---
 
 I am graduating in January 2027 and actively seeking industry R&D scientist and postdoctoral positions in computational materials science, battery modeling, and electrochemical systems (based in the Detroit, MI area and open to relocation). Please reach out at [heyinin1@msu.edu](mailto:heyinin1@msu.edu) to discuss research collaborations, open roles, or technical questions.

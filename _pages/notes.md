@@ -4,7 +4,7 @@ permalink: /notes/
 title: notes
 description: Self-study notes on stochastic processes, statistical mechanics, and molecular simulation.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 This archive collects my personal study notes on the mathematical foundations of stochastic processes, statistical mechanics, and molecular simulation. Written to deepen my theoretical grasp of diffusive transport, fluctuation-dissipation relations, and stochastic differential equations (SDEs), these documents bridge probability theory with atomistic modeling.

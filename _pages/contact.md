@@ -4,7 +4,7 @@ permalink: /contact/
 title: contact
 description: Get in touch about collaborations, open roles, or technical questions.
 nav: true
-nav_order: 7
+nav_order: 8
 # TODO(Peter): create a free access key at https://web3forms.com (it is tied to heyinin1@msu.edu) and paste it below.
 # While the value is still YOUR_WEB3FORMS_ACCESS_KEY the form is disabled and a note is shown instead.
 web3forms_access_key: 68cea5da-cabe-4afa-9c99-2d77d49a75e1

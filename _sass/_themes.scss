@@ -210,3 +210,30 @@ html[data-theme-setting="light"] {
 #light-toggle:hover .fa-half-sun-moon::after {
   color: var(--global-theme-color);
 }
+
+// Smaller contact icons (about 0.4x the theme default) on About and Contact
+.contact-icons.contact-icons,
+.social .contact-icons.contact-icons {
+  font-size: 1.6rem;
+
+  a {
+    margin: 0 0.25rem;
+
+    img {
+      width: 1.3rem;
+      height: 1.3rem;
+      margin-bottom: 0.4rem;
+    }
+
+    svg {
+      width: 1.4rem;
+      height: 1.6rem;
+      margin-bottom: 0.2rem;
+
+      image {
+        width: 1.4rem;
+        height: 1.4rem;
+      }
+    }
+  }
+}

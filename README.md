@@ -14,7 +14,6 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 | News items on the home page        | one file per item in `_news/` (copy an existing one; the date sets the order and shows as month + year; add `date_label: "2025"` to override the label)                                                             |
 | CV page                            | `_data/cv.yml` (on-page CV) **and** replace `assets/pdf/CV_Yining_He.pdf` (the Download button; keep the file name)                        |
 | Teaching page                      | `_pages/teaching.md`                                                                                                                      |
-| Self-study notes                   | add the PDF to `assets/pdf/notes/`, then list it in `_pages/notes.md`                                                                     |
 | Contact page, form, guestbook      | `_pages/contact.md`                                                                                                                       |
 | Social links in icons/footer       | `_data/socials.yml`                                                                                                                       |
 | Headshot                           | replace `assets/img/prof_pic.webp` (square, ~800px; configured under `profile:` in `_pages/about.md`)                                          |
@@ -22,7 +21,7 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 
 Figures on project pages are `{% raw %}{% include figure.liquid ... %}{% endraw %}` blocks, grouped in Bootstrap rows (`col-md-4` for three across, `col-md-8` centered for a single plot). The home page sets `nav: false` because the navbar already hard-codes an "about" link. The accent colour is set in `_sass/_themes.scss` (`$accent-light`, `$accent-dark`).
 
-Navbar order is set by `nav_order` in each page's front matter: about, research, publications, cv, teaching, notes, contact. The blog is hidden (`nav: false` in `_pages/blog.md`).
+Navbar order is set by `nav_order` in each page's front matter: about, research, publications, cv, teaching, blog, contact. The blog is hidden (`nav: false` in `_pages/blog.md`).
 
 ## Preview locally
 

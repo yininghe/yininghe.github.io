@@ -27,11 +27,11 @@ latest_posts:
   enabled: false # the blog is hidden for now (see _pages/blog.md)
 ---
 
-Yining He is a Ph.D. candidate in Materials Science at Michigan State University (advised by Prof. Wei Lai), specializing in predictive atomistic simulations for electrochemical energy storage and gas sensing technologies. His research bridges first-principles calculations and macroscopic transport properties by combining density functional theory (DFT), machine-learning interatomic potentials (MLIPs), molecular dynamics (MD), and Monte Carlo (MC) methods.
+I am a Ph.D. candidate in Materials Science at Michigan State University (advised by Prof. Wei Lai), specializing in predictive atomistic simulations for electrochemical energy storage and gas sensing technologies. My research bridges first-principles calculations and macroscopic transport properties by combining density functional theory (DFT), machine-learning interatomic potentials (MLIPs), molecular dynamics (MD), and Monte Carlo (MC) methods.
 
-In his doctoral work, he develops and validates neural-network potentials that accelerate sodium-ion battery electrode simulations to nanosecond timescales while preserving near-DFT accuracy, and models platinum/ionic-liquid interfaces to uncover how electric double-layer structure governs hydrogen sensor sensitivity. By translating atomic-scale mechanisms—such as ion jump pathways, residence times, and interfacial solvation—into quantitative design rules, he helps experimental collaborators select and optimize electrode and electrolyte formulations. He also brings strong transferable skills in Python, statistical data analysis, machine-learning model training and validation, stochastic processes, and high-performance computing (HPC).
+In my doctoral work, I develop and validate neural-network potentials that accelerate sodium-ion battery electrode simulations to nanosecond timescales while preserving near-DFT accuracy, and model platinum/ionic-liquid interfaces to uncover how electric double-layer structure governs hydrogen sensor sensitivity. By translating atomic-scale mechanisms—such as ion jump pathways, residence times, and interfacial solvation—into quantitative design rules, I help experimental collaborators select and optimize electrode and electrolyte formulations. I also bring strong transferable skills in Python, statistical data analysis, machine-learning model training and validation, stochastic processes, and high-performance computing (HPC).
 
-He expects to graduate in January 2027 (based in the Detroit, MI area and open to relocation) and is seeking industry R&D scientist and postdoctoral research positions in computational materials science, battery modeling, and electrochemical systems.
+I expect to graduate in January 2027 (based in the Detroit, MI area and open to relocation) and am seeking industry R&D scientist and postdoctoral research positions in computational materials science, battery modeling, and electrochemical systems.
 
 ## Research interests
 
@@ -43,11 +43,11 @@ He expects to graduate in January 2027 (based in the Detroit, MI area and open t
 
 ## Beyond the lab
 
-Outside of research, Yining plays soccer weekly as a right-back and is a dedicated Arsenal supporter. Away from the pitch, he enjoys table tennis and traveling to explore new cities and landscapes.
+Outside of research, I play soccer weekly as a right-back and am a dedicated Arsenal supporter. Away from the pitch, I enjoy table tennis and traveling to explore new cities and landscapes.
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/life/michigan-cup-soccer.webp" class="img-fluid rounded z-depth-1" zoomable=true alt="Post-match team photo from a Michigan amateur soccer cup tournament" caption="Post-match team photo from a Michigan amateur soccer cup tournament, where he plays weekly as a right-back." %}
+    {% include figure.liquid path="assets/img/life/michigan-cup-soccer.webp" class="img-fluid rounded z-depth-1" zoomable=true alt="Post-match team photo from a Michigan amateur soccer cup tournament" caption="Post-match team photo from a Michigan amateur soccer cup tournament, where I play weekly as a right-back." %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/life/msu-beaumont-tower.webp" class="img-fluid rounded z-depth-1" zoomable=true alt="Winter view of Beaumont Tower on the Michigan State University campus" caption="Winter view of Beaumont Tower on the Michigan State University campus in East Lansing." %}

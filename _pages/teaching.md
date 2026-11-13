@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching &amp; mentoring
+title: Teaching &amp; Mentoring
 description: Laboratory instruction and teaching assistance at Michigan State University.
 nav: true
 nav_order: 5

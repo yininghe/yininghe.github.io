@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 description: Machine-learning interatomic potentials for battery electrodes, molecular simulation of ionic-liquid gas sensors, and the methods behind them.
 nav: true

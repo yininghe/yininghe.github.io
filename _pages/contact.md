@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contact/
-title: contact
+title: Contact
 description: Get in touch about collaborations, open roles, or technical questions.
 nav: true
 nav_order: 8

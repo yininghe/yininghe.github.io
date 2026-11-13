@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 nav: false # the navbar already hard-codes an "about" link; nav: true would list it twice
 nav_order: 1

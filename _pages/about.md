@@ -14,6 +14,7 @@ profile:
     <p>Ph.D. Candidate, Materials Science</p>
     <p>Michigan State University</p>
     <p>Detroit, MI area · open to relocation</p>
+    <p><a class="btn btn-sm z-depth-0 mt-2" style="background-color: var(--global-theme-color); color: #fff;" href="/assets/pdf/CV_Yining_He.pdf" target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-file-pdf"></i>&nbsp; Download CV (PDF)</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

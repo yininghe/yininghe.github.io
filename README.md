@@ -2,7 +2,7 @@
 
 Personal academic portfolio of **Yining He** (Ph.D. candidate, Materials Science, Michigan State University), served at <https://yininghe.github.io>.
 
-Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com/alshedivat/al-folio) v1 starter (MIT license, see [`LICENSE`](LICENSE)). In al-folio v1 the layouts, includes, styles and feature code live in versioned Ruby gems (pinned in [`Gemfile`](Gemfile)), so this repo only holds content and configuration. The only local overrides of gem files are `_sass/_themes.scss` (MSU-green accent), `_includes/news.liquid` (month + year dates) and `_layouts/cv.liquid` (PDF button from the page body); they are the documented user-site override mechanism and are tracked in `.al-folio-overrides.yml`. Note that `npm run lint:style-contract` flags `_sass/` (it is meant for the upstream starter). Don't add other `_layouts/`/`_includes/`/`_sass/` files without a reason (see [`AGENTS.md`](AGENTS.md)).
+Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com/alshedivat/al-folio) v1 starter (MIT license, see [`LICENSE`](LICENSE)). In al-folio v1 the layouts, includes, styles and feature code live in versioned Ruby gems (pinned in [`Gemfile`](Gemfile)), so this repo only holds content and configuration. The only local overrides of gem files are `_sass/_themes.scss` (MSU-green accent) and `_includes/news.liquid` (month + year dates); they are the documented user-site override mechanism and are tracked in `.al-folio-overrides.yml`. Note that `npm run lint:style-contract` flags `_sass/` (it is meant for the upstream starter). Don't add other `_layouts/`/`_includes/`/`_sass/` files without a reason (see [`AGENTS.md`](AGENTS.md)).
 
 ## Where things are
 
@@ -12,7 +12,7 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 | Research project pages and cards   | `_projects/*.md` (card title/description/thumbnail are in the front matter; `importance` sets the order). Figures: `assets/img/research/` |
 | Publications list                  | `_bibliography/papers.bib` (BibTeX; add `selected={true}` to show a paper on the home page)                                               |
 | News items on the home page        | one file per item in `_news/` (copy an existing one; the date sets the order and shows as month + year; add `date_label: "2025"` to override the label)                                                             |
-| CV page                            | `_data/cv.yml` (on-page CV) **and** replace `assets/pdf/CV_Yining_He.pdf` (the Download button; keep the file name)                        |
+| PDF CV (button on the About page) | replace `assets/pdf/CV_Yining_He.pdf` (keep the file name) |
 | Teaching page                      | `_pages/teaching.md`                                                                                                                      |
 | Contact page, form, guestbook      | `_pages/contact.md`                                                                                                                       |
 | Social links in icons/footer       | `_data/socials.yml`                                                                                                                       |
@@ -21,7 +21,7 @@ Built with [Jekyll](https://jekyllrb.com/) and the [al-folio](https://github.com
 
 Figures on project pages are `{% raw %}{% include figure.liquid ... %}{% endraw %}` blocks, grouped in Bootstrap rows (`col-md-4` for three across, `col-md-8` centered for a single plot). The home page sets `nav: false` because the navbar already hard-codes an "about" link. The accent colour is set in `_sass/_themes.scss` (`$accent-light`, `$accent-dark`).
 
-Navbar order is set by `nav_order` in each page's front matter: about, research, publications, cv, teaching, blog, contact. The blog is hidden (`nav: false` in `_pages/blog.md`).
+Navbar order is set by `nav_order` in each page's front matter: about, research, publications, teaching, blog, contact. The blog is hidden (`nav: false` in `_pages/blog.md`).
 
 ## Preview locally
 

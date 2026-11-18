@@ -48,7 +48,7 @@ Outside of research, I play soccer weekly as a right-back and am a dedicated Ars
 
 <div class="row">
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/life/michigan-cup-soccer.webp" class="img-fluid rounded z-depth-1" zoomable=true alt="Post-match team photo from a Michigan amateur soccer cup tournament" caption="Post-match team photo from a Michigan amateur soccer cup tournament, where I play weekly as a right-back." %}
+    {% include figure.liquid path="assets/img/life/weekly-soccer.webp" class="img-fluid rounded z-depth-1" zoomable=true alt="Group photo with soccer teammates on the pitch" caption="With my soccer teammates on the pitch." %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/life/msu-beaumont-tower.webp" class="img-fluid rounded z-depth-1" zoomable=true alt="Winter view of Beaumont Tower on the Michigan State University campus" caption="Winter view of Beaumont Tower on the Michigan State University campus in East Lansing." %}

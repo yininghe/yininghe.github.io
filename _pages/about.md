@@ -32,7 +32,7 @@ I am a Ph.D. candidate in Materials Science at Michigan State University (advise
 
 In my doctoral work, I develop and validate neural-network potentials that accelerate sodium-ion battery electrode simulations to nanosecond timescales while preserving near-DFT accuracy, and model platinum/ionic-liquid interfaces to uncover how electric double-layer structure governs hydrogen sensor sensitivity. By translating atomic-scale mechanisms—such as ion jump pathways, residence times, and interfacial solvation—into quantitative design rules, I help experimental collaborators select and optimize electrode and electrolyte formulations. I also bring strong transferable skills in Python, statistical data analysis, machine-learning model training and validation, stochastic processes, and high-performance computing (HPC).
 
-I expect to graduate in January 2027 (based in the Detroit, MI area and open to relocation) and am seeking industry R&D scientist and postdoctoral research positions in computational materials science, battery modeling, and electrochemical systems.
+I expect to graduate in February 2027 (based in the Detroit, MI area and open to relocation) and am seeking industry R&D scientist and postdoctoral research positions in computational materials science, battery modeling, and electrochemical systems.
 
 ## Research interests
 

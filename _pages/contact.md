@@ -10,7 +10,7 @@ nav_order: 8
 web3forms_access_key: 68cea5da-cabe-4afa-9c99-2d77d49a75e1
 ---
 
-I am graduating in January 2027 and actively seeking industry R&D scientist and postdoctoral positions in computational materials science, battery modeling, and electrochemical systems (based in the Detroit, MI area and open to relocation). Please reach out at [heyinin1@msu.edu](mailto:heyinin1@msu.edu) to discuss research collaborations, open roles, or technical questions.
+I am graduating in February 2027 and actively seeking industry R&D scientist and postdoctoral positions in computational materials science, battery modeling, and electrochemical systems (based in the Detroit, MI area and open to relocation). Please reach out at [heyinin1@msu.edu](mailto:heyinin1@msu.edu) to discuss research collaborations, open roles, or technical questions.
 
 <div class="social">
   <div class="contact-icons">{% social_links %}</div>

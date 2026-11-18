@@ -8,7 +8,7 @@ cv:
   address:
     city: Detroit
     region: MI (open to relocation)
-  summary: "Computational materials scientist with expertise in developing predictive models for electrochemical battery and gas sensor technologies. Expected graduation: January 2027."
+  summary: "Computational materials scientist with expertise in developing predictive models for electrochemical battery and gas sensor technologies. Expected graduation: February 2027."
 
   sections:
     Experience:
@@ -16,8 +16,8 @@ cv:
         position: Computational Materials Science Researcher (Ph.D.)
         location: East Lansing, MI
         start_date: 2020-11
-        end_date: 2027-01
-        summary: Anticipated completion January 2027.
+        end_date: 2027-02
+        summary: Anticipated completion February 2027.
         highlights:
           - Developed and validated machine-learning interatomic potentials (MLIPs) to accelerate Na-ion diffusion simulations for sodium-ion battery (SIB) electrodes while maintaining near-DFT accuracy, enabling larger system sizes and longer time scales on MSU's high-performance computing cluster.
           - Quantified structure-property relationships (e.g., Na<sup>+</sup> diffusion pathways, residence time) and converted them into design rules that guide experimental electrode selection for next-generation sodium-ion batteries.
@@ -51,9 +51,9 @@ cv:
         studyType: Ph.D.
         location: East Lansing, MI
         start_date: 2017-08
-        end_date: 2027-01
+        end_date: 2027-02
         highlights:
-          - "Anticipated graduation January 2027. Advisor: Prof. Wei Lai."
+          - "Anticipated graduation February 2027. Advisor: Prof. Wei Lai."
 
       - institution: University of Southern California (USC)
         area: Materials Engineering

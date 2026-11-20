@@ -4,7 +4,7 @@ title: About
 permalink: /
 nav: false # the navbar already hard-codes an "about" link; nav: true would list it twice
 nav_order: 1
-subtitle: "Computational Materials Scientist | Atomistic &amp; Machine-Learning Modeling for Electrochemistry"
+subtitle: "Computational Materials Scientist | Atomistic &amp; Machine-Learning Materials Modeling"
 
 profile:
   align: right
